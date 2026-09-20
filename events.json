@@ -892,6 +892,26 @@
     "thumb": "images/live_ishikawaII_03.jpg"
   },
   {
+    "id": 1789925643611,
+    "name": "商品發售：世嘉「104期生&105期生の冬制服の寝そべりぬいぐるみ（M）」玩偶",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "time": "",
+    "location": "",
+    "description": "セガより新商品発売のお知らせ！\n\n全長約30cmの寝そべり（M）が登場します✨\n\n104期生&105期生",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_nesoberi103fuyum_01.jpeg",
+      "images/goods_nesoberi103fuyum_02.jpeg",
+      "images/goods_nesoberi103fuyum_03.jpeg",
+      "images/goods_nesoberi103fuyum_04.jpeg"
+    ],
+    "thumb": "images/goods_nesoberi103fuyum_01.jpeg"
+  },
+  {
     "id": 1789477702665,
     "name": "商品發售：DMM石川大觀光II聯動後期商品「スカーフ風チャーム」",
     "startDate": "2026-09-18",
