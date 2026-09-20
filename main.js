@@ -334,6 +334,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     renderOngoingCards();
     renderUpcomingEvents();
+    renderPastEvents();
     setInterval(updateCountdowns, 60000); // 每分鐘更新倒計時
 
     initLightbox();
@@ -493,6 +494,87 @@ function updateCountdowns() {
         const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
 
         el.textContent = `${days}天 ${hours}時 ${minutes}分`;
+    });
+}
+
+// ===== 輔助函式：智能解析活動的精確結束時間 (GMT+9) =====
+function parseEventEndTime(event) {
+    if (!event.endDate) return null;
+    
+    let hours = 23;
+    let minutes = 59;
+    
+    if (event.time) {
+        // 尋找結束時間（例如：19:00閉場、21:00終了）
+        let match = event.time.match(/(\d{1,2}):(\d{2})\s*(?:閉場|終了|結束|完)/);
+        
+        // 如果沒有結束時間，嘗試找時間範圍的第二個時間（例如：14:00-18:00）
+        if (!match) {
+            const timeRanges = event.time.match(/(\d{1,2}):(\d{2})/g);
+            if (timeRanges && timeRanges.length > 1) {
+                const lastTime = timeRanges[timeRanges.length - 1];
+                const timeMatch = lastTime.match(/(\d{1,2}):(\d{2})/);
+                if (timeMatch) {
+                    hours = parseInt(timeMatch[1], 10);
+                    minutes = parseInt(timeMatch[2], 10);
+                }
+            }
+        } else {
+            hours = parseInt(match[1], 10);
+            minutes = parseInt(match[2], 10);
+        }
+    }
+    
+    const timeStr = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00`;
+    return new Date(`${event.endDate}T${timeStr}+09:00`);
+}
+
+// ===== 主頁：剛過去7天內的活動 =====
+function renderPastEvents() {
+    const container = document.getElementById('past-events');
+    if (!container) return;
+
+    const now = new Date();
+    const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+
+    // 篩選：結束日期在「7天前」到「現在」之間
+    const past = eventsData.filter(e => {
+        const end = parseEventEndTime(e);
+        return end && end >= sevenDaysAgo && end < now;
+    });
+
+    // 依結束時間由近到遠排序（最近的排前面）
+    past.sort((a, b) => parseEventEndTime(b) - parseEventEndTime(a));
+
+    container.innerHTML = '';
+
+    if (past.length === 0) {
+        container.innerHTML = '<p style="color:#999; padding:10px;">最近7天內沒有已結束的活動</p>';
+        return;
+    }
+
+    past.forEach(event => {
+        const endDate = parseEventEndTime(event);
+        const diffMs = now - endDate;
+        const daysAgo = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+        
+        const card = document.createElement('div');
+        card.className = 'past-card';
+        card.style.cursor = 'pointer';
+        card.onclick = () => goToCalendarEvent(event.id);
+        
+        const thumbHtml = event.thumb 
+            ? `<img src="${imgSrc(event.thumb)}" class="past-thumb" alt="${event.name}" loading="lazy">`
+            : `<div class="past-thumb" style="display:flex; align-items:center; justify-content:center; font-size:48px; color:#ccc;"></div>`;
+
+        card.innerHTML = `
+            ${thumbHtml}
+            <div class="past-content">
+                <div class="past-name" title="${event.name}">${event.name}</div>
+                <div class="past-ago">已過去 ${daysAgo} 天</div>
+            </div>
+        `;
+        container.appendChild(card);
     });
 }
 
