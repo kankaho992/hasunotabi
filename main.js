@@ -169,7 +169,7 @@ function toggleLanguage() {
 // 景點分類定義 (15個)
 const spotCategories = [
     { id: 0, name: '全部', colorVar: 'var(--color-0)' },
-    { id: 1, name: '遊戲卡面', colorVar: 'var(--color-1)' },
+    { id: 1, name: '遊戲卡圖', colorVar: 'var(--color-1)' },
     { id: 2, name: '活動記錄', colorVar: 'var(--color-2)' },
     { id: 3, name: '準備蓮', colorVar: 'var(--color-3)' },
     { id: 4, name: 'Fes×LIVE / With×MEETS', colorVar: 'var(--color-4)' },
