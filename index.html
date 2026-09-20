@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>蓮之空 應援記錄</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Leaflet CSS for Map -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
+    <link href='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/main.min.css' rel='stylesheet' />
+</head>
+<body>
+    <button id="lang-toggle" class="lang-toggle-btn">簡</button>
+    <!-- 左側菜單 -->
+    <nav id="sidebar">
+        <img src="\images\hasunosoralogo.png" alt="hasunosoralogo">
+        <button class="menu-btn active" onclick="switchPage('home')">主頁<br><small>HOMEPAGE</small></button>
+        <button class="menu-btn" onclick="switchPage('pilgrimage')">蓮旅<br><small>TRAVEL</small></button>
+        <button class="menu-btn" onclick="switchPage('calendar')">蓮活<br><small>EVENT</small></button>
+    </nav>
+
+    <!-- 右側主頁面 -->
+    <main id="main-content">
+        <!-- 主頁 -->
+        <section id="home" class="page active" style="text-align: center;">
+            <h1 class="page-title">蓮ノ空女学院スクールアイドルクラブ</h1>
+            <hr class="divider">
+            <p>
+                私立蓮之空女學院，坐落於石川縣金澤市遠離喧囂的幽靜深處，依偎在一片蓮花盛開的湖畔。<br>
+                在這所創立已逾百年的學府中，自古綿延的底蘊至今仍生生不息。<br>
+                亙古不變之物，與時移流轉之物；<br>
+                啟程遠行之人，與靜守故土之人。<br>
+                其間，少女們正活在熠熠生輝的青春之中。<br>
+                於有限的時光里，她們拼盡全力，只為絢爛地盛開。<br>
+                這是屬於她們的「大家一同實現的夢想」——<br>
+                　
+            </p>
+            <hr class="divider">
+            <h2 class="section-title">🔔 一週內即將開始的活動</h2>
+            <div id="upcoming-events" class="upcoming-grid"></div>
+            <hr class="divider">
+            <h2 class="section-title">正在進行中的線下聯動活動</h2>
+            <div id="ongoing-cards" class="ongoing-grid" style="text-align: center;"></div>
+            <hr class="divider">
+            <img src="\images\hasunosoragbp.webp" alt="hasunosoraBGPkeyvisual">
+        </section>
+
+        <!-- 巡禮頁面 -->
+        <section id="pilgrimage" class="page">
+            <h1 class="page-title">蓮旅</h1>
+            <p>為方便蓮之空喜歡喜歡俱樂部的各位在聖地巡禮或規劃時，更容易地找到相關資料而製作。</p>
+            <hr class="divider">
+            
+            <div id="spot-filters" class="filters"></div>
+
+            <div class="split-layout">
+                <div class="left-pane">
+                    <div id="map"></div>
+                    <div id="spot-details" class="details-panel" style="display:none;"></div>
+                </div>
+                <div class="right-pane" id="spot-list"></div>
+            </div>
+        </section>
+
+        <!-- 活動日曆頁面 -->
+        <section id="calendar" class="page">
+            <h1 class="page-title">蓮活</h1>
+            <hr class="divider">
+            
+            <div id="event-filters" class="filters"></div>
+
+            <div class="split-layout">
+                <!-- 左側：日曆與詳情 (垂直排列) -->
+                <div class="left-pane" style="width: 65%; display: flex; flex-direction: column; gap: 20px;">
+                    <!-- 日曆容器：去掉固定高度，改用 min-height -->
+                    <div id="calendar-container" style="min-height: 60vh; background: #fff; padding: 10px; border-radius: 8px;"></div>
+            
+                    <!-- 詳情面板：預設隱藏，點擊後顯示在這裡 -->
+                    <div id="event-details" class="details-panel" style="display: none;"></div>
+                </div>
+        
+                <!-- 右側：活動列表 -->
+                <div class="right-pane" style="width: 35%;">
+                    <div id="event-list" style="overflow-y: auto; height: 100%;"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,425 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+:root {
+    /* 原本的顏色 0~9 */
+    --color-0: #7eb37e; /* 三葉草綠 (全部) */
+    --color-1: #ffcc99; /* 淡橙 */
+    --color-2: #99ccff; /* 淡藍 */
+    --color-3: #b3e6b3; /* 淡綠 */
+    --color-4: #ff9999; /* 淡紅 */
+    --color-5: #ffb6c1; /* 淡粉 */
+    --color-6: #cccccc; /* 淡灰 */
+    --color-7: #99ffff; /* 淡水藍 */
+    --color-8: #ffff99; /* 淡黃 */
+    --color-9: #cc99ff; /* 淡紫 */
+    /* 新增的顏色 10~14 */
+    --color-10: #f46455; /* HASUNOSORA FANTASY */
+    --color-11: #3ad6df; /* 能登聯動 */
+    --color-12: #cc5a5a; /* 石川大觀光II聯動 */
+    --color-13: #3E7F96; /* 加賀溫泉鄉聯動 */
+    --color-14: #787878; /* 其他 */
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: 'Roboto', 'Noto Sans TC', 'Noto Sans JP', sans-serif;
+    display: flex; height: 100vh; overflow: hidden; color: #333;
+}
+
+/* 左側菜單 (15%) */
+#sidebar {
+    width: 15%; background-color: #fff; border-right: 1px solid #eee;
+    display: flex; flex-direction: column; padding: 20px 0;
+}
+.menu-btn {
+    border: none; background: transparent; padding: 15px 20px;
+    text-align: left; font-size: 16px; cursor: pointer; transition: 0.3s;
+    color: #555;
+}
+.menu-btn:hover { background-color: #f9f9f9; }
+.menu-btn.active { background-color: #eeeeee; font-weight: 700; color: #000; }
+
+/* 右側主頁面 (85%) */
+#main-content {
+    width: 85%; padding: 40px; overflow-y: auto; background-color: #fafafa;
+}
+.page { display: none; }
+.page.active { display: block; }
+
+/* 標題與分割線 */
+.page-title { font-size: 32px; font-weight: 700; margin-bottom: 10px; }
+.divider { border: 0; border-top: 1px solid rgba(0,0,0,0.1); margin-bottom: 30px; }
+
+/* 標籤過濾器 */
+.filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+.filter-tag {
+    border: 1px solid #ddd; border-radius: 20px; padding: 8px 16px;
+    cursor: pointer; background: #fff; transition: 0.2s; font-size: 14px;
+    color: #333;
+}
+.filter-tag.active { font-weight: 700; border-color: transparent; color: #000;}
+
+/* 內容分割 6:4 */
+.split-layout { display: flex; gap: 20px; min-height: 65vh; height: auto; }
+.left-pane { width: 60%; display: flex; flex-direction: column; gap: 20px; height: auto; }
+.right-pane { width: 40%; overflow-y: auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+
+/* 地圖容器 */
+#map { height: 50vh; border-radius: 8px; background: #eee; min-height: 300px; z-index: 1; }
+
+/* 日曆容器：移除 z-index，並限制內部元素溢出 */
+#calendar-container { 
+    min-height: 60vh; 
+    border-radius: 8px; 
+    background: #fff; 
+    padding: 10px; 
+    overflow: hidden; /* 關鍵：防止 FullCalendar 內部的陰影或邊框溢出遮擋下方 */
+}
+
+/* 列表項目 */
+.list-item { display: flex; padding: 15px; border-bottom: 1px solid #eee; cursor: pointer; transition: 0.2s; }
+.list-item:hover { background: #f9f9f9; }
+.list-item.selected {
+    background-color: #eef2ff; /* 淡藍色背景 */
+    border-left: 4px solid #4285F4;
+}
+.list-item img { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; margin-right: 15px; background: #eee;}
+.list-item .info { flex: 1; }
+.list-item .title { font-weight: 700; margin-bottom: 5px; font-size: 16px; }
+.tags { display: flex; gap: 5px; flex-wrap: wrap; }
+.tag { font-size: 12px; padding: 3px 8px; border-radius: 12px; color: #000; }
+
+/* 詳細資料表格 */
+.details-panel {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    animation: fadeIn 0.3s ease;
+}
+.details-table { width: 100%; border-collapse: collapse; margin-bottom: 15px; }
+.details-table th, .details-table td { padding: 8px; border-bottom: 1px solid #eee; text-align: left; font-size: 14px; vertical-align: top; }
+.details-table th { width: 100px; color: #666; white-space: nowrap; }
+.btn-map { background: #4285F4; color: white; padding: 8px 12px; border: none; border-radius: 4px; cursor: pointer; text-decoration: none; font-size: 13px; display: inline-block;}
+
+/* 自訂地圖標記 */
+.custom-marker {
+    width: 24px;
+    height: 24px;
+    border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg);
+    border: 2px solid #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+.custom-marker-inner {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+/* 圖片庫 */
+.gallery { display: flex; gap: 10px; overflow-x: auto; margin-top: 10px;}
+.gallery img { width: 100px; height: 100px; object-fit: cover; cursor: pointer; border-radius: 4px;}
+
+/* ===== 改進版日曆樣式 ===== */
+.calendar-wrapper {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cal-nav-btn {
+    background: none;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+.cal-nav-btn:hover {
+    background: #f0f0f0;
+    border-color: #ccc;
+}
+
+.cal-header-cell {
+    background: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    color: #666;
+}
+
+.cal-day.other-month {
+    color: #ccc;
+    background: #fafafa;
+}
+
+.day-number {
+    font-size: 14px;
+    margin-bottom: 4px;
+    align-self: flex-end;
+    width: 100%;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.event-dots-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    width: 100%;
+    margin-top: auto; /* 將圓點推到底部 */
+}
+
+
+/* ===== 主頁：進行中聯動卡片 ===== */
+.section-title { font-size: 22px; font-weight: 700; margin-bottom: 15px; }
+.ongoing-grid { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-bottom: 30px; }
+.ongoing-card {
+  width: 400px; height: 360px; background: #fff; border-radius: 8px; overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); cursor: pointer;
+  transition: transform .2s, box-shadow .2s;
+}
+.ongoing-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+.ongoing-card img {
+  display: block; width: 100%; height: 220px;
+  object-fit: cover; background: #eee;
+}
+.ongoing-info { padding: 12px 15px 15px; }
+.ongoing-title {
+  font-weight: 700; font-size: 16px; margin-bottom: 6px;
+  display: flex; align-items: center; gap: 6px;
+}
+.ongoing-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.ongoing-desc { font-size: 13px; color: #666; line-height: 1.6; }
+.ongoing-date { font-size: 12px; color: #000; margin-top: 8px; }
+
+/* 強制覆蓋 FullCalendar 事件標題的顏色 */
+.fc-event-title, 
+.fc-event-main,
+.fc-event-title-container {
+    color: #000000 !important;
+}
+.fc-event, 
+.fc-event-title, 
+.fc-event-title-container, 
+.fc-event-main {
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    display: block !important;
+    max-width: 100%;
+}
+
+/* ===== 詳情頁圖片庫（圓角外框）===== */
+.gallery {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    margin-top: 10px;
+    padding-bottom: 8px;
+}
+.gallery-frame {
+    position: relative;
+    flex: 0 0 auto;
+    padding: 6px;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    cursor: zoom-in;
+    transition: transform .2s, box-shadow .2s;
+}
+.gallery-frame:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+.gallery-frame img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    background: #eee;
+    cursor: zoom-in;
+}
+
+/* ===== Lightbox ===== */
+.lightbox-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+.lightbox-overlay.active { display: flex; }
+.lightbox-img {
+    max-width: 90vw;
+    max-height: 85vh;
+    border-radius: 10px;
+    box-shadow: 0 12px 48px rgba(0,0,0,0.6);
+    user-select: none;
+}
+.lightbox-close {
+    position: absolute;
+    top: 18px; right: 24px;
+    width: 42px; height: 42px;
+    border: none; border-radius: 50%;
+    background: rgba(255,255,255,0.15);
+    color: #fff; font-size: 20px;
+    cursor: pointer; transition: 0.2s;
+}
+.lightbox-close:hover { background: rgba(255,255,255,0.35); }
+.lightbox-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px; height: 48px;
+    border: none; border-radius: 50%;
+    background: rgba(255,255,255,0.15);
+    color: #fff; font-size: 22px;
+    cursor: pointer; transition: 0.2s;
+}
+.lightbox-arrow:hover { background: rgba(255,255,255,0.35); }
+.lightbox-prev { left: 20px; }
+.lightbox-next { right: 20px; }
+.lightbox-counter {
+    position: absolute;
+    bottom: 20px; left: 50%;
+    transform: translateX(-50%);
+    color: #fff; font-size: 14px;
+    background: rgba(0,0,0,0.4);
+    padding: 4px 12px; border-radius: 12px;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* ===== 簡繁切換按鈕樣式 ===== */
+.lang-toggle-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999; /* 確保按鈕在最上層 */
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    color: #333;
+    transition: all 0.3s ease;
+}
+
+.lang-toggle-btn:hover {
+    background: #f0f0f0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* ===== 主頁：一週內即將開始的活動 ===== */
+.upcoming-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+.upcoming-card {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    overflow: hidden; /* 確保圖片符合圓角 */
+    min-width: 260px;
+    max-width: 360px;
+    flex: 1 1 280px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: transform .2s, box-shadow .2s;
+    display: flex;
+    flex-direction: column;
+}
+.upcoming-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+}
+/* 縮圖樣式 */
+.upcoming-thumb {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    background: #f5f5f5;
+    display: block;
+}
+/* 內容區 */
+.upcoming-content {
+    padding: 14px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    flex: 1; /* 讓倒計時可以被推到底部 */
+}
+.upcoming-name {
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 12px;
+    color: #333;
+    line-height: 1.5;
+    word-break: break-word;
+    flex: 1;
+    overflow: hidden;
+}
+.upcoming-countdown {
+    font-size: 22px;
+    font-weight: 700;
+    color: #333;
+    font-family: 'Roboto', 'Noto Sans TC', monospace;
+    letter-spacing: 1px;
+    margin-top: auto; /* 將倒計時推到卡片底部 */
+}
+
+/* 手機版適配 */
+@media (max-width: 768px) {
+    body { flex-direction: column; }
+    #sidebar { width: 100%; flex-direction: row; padding: 0; overflow-x: auto; border-bottom: 1px solid #eee; }
+    #main-content { width: 100%; padding: 15px; }
+    .split-layout { flex-direction: column; height: auto; }
+    .left-pane, .right-pane { width: 100%; }
+    .calendar-grid {
+        font-size: 12px;
+    }
+    .cal-day {
+        min-height: 50px;
+        padding: 2px;
+    }
+    .day-number {
+        font-size: 12px;
+    }
+    .lang-toggle-btn {
+        top: 10px;
+        right: 10px;
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+    .upcoming-card {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .upcoming-thumb {
+        height: 160px;
+    }
+    .upcoming-countdown {
+        font-size: 18px;
+    }
+}
+
