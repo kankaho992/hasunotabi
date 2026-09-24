@@ -499,8 +499,10 @@ function updateCountdowns() {
 
 // ===== 輔助函式：智能解析活動的精確結束時間 (GMT+9) =====
 function parseEventEndTime(event) {
-    if (!event.endDate) return null;
-    
+    // ✅ 修正 1：如果沒有 endDate，自動 fallback 到 startDate
+    const targetDate = event.endDate || event.startDate;
+    if (!targetDate) return null;
+
     let hours = 23;
     let minutes = 59;
     
@@ -526,7 +528,7 @@ function parseEventEndTime(event) {
     }
     
     const timeStr = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00`;
-    return new Date(`${event.endDate}T${timeStr}+09:00`);
+    return new Date(`${targetDate}T${timeStr}+09:00`);
 }
 
 // ===== 主頁：剛過去7天內的活動 =====
@@ -537,14 +539,29 @@ function renderPastEvents() {
     const now = new Date();
     const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
 
-    // 篩選：結束日期在「7天前」到「現在」之間
     const past = eventsData.filter(e => {
+        const start = parseEventStartTime(e);
         const end = parseEventEndTime(e);
-        return end && end >= sevenDaysAgo && end < now;
+        if (!start) return false;
+
+        // ✅ 修正 2：重新定義「剛過去/已發生」的邏輯
+        // 情況 A：已經過了實質結束時間 (包含單日活動預設的 23:59)
+        if (end < now) return true;
+
+        // 情況 B：如果是單日活動 (沒寫 endDate 或 開始結束同天)，且今天已經過了開始時間
+        // 這解決了「今天白天已經開始的活動」在首頁消失的問題
+        const isSingleDay = !e.endDate || (e.startDate === e.endDate);
+        if (isSingleDay && start <= now && start >= sevenDaysAgo) return true;
+
+        return false;
     });
 
-    // 依結束時間由近到遠排序（最近的排前面）
-    past.sort((a, b) => parseEventEndTime(b) - parseEventEndTime(a));
+    // 排序邏輯：已經結束的依結束時間排，今天剛開始的依開始時間排
+    past.sort((a, b) => {
+        const timeA = parseEventEndTime(a) < now ? parseEventEndTime(a) : parseEventStartTime(a);
+        const timeB = parseEventEndTime(b) < now ? parseEventEndTime(b) : parseEventStartTime(b);
+        return timeB - timeA;
+    });
 
     container.innerHTML = '';
 
@@ -554,10 +571,17 @@ function renderPastEvents() {
     }
 
     past.forEach(event => {
-        const endDate = parseEventEndTime(event);
-        const diffMs = now - endDate;
+        const start = parseEventStartTime(event);
+        const end = parseEventEndTime(event);
+        
+        // 計算天數的基準：如果已經過了結束時間，以結束時間算；否則以開始時間算
+        const referenceTime = end < now ? end : start;
+        const diffMs = now - referenceTime;
         const daysAgo = Math.floor(diffMs / (1000 * 60 * 60 * 24));
         
+        // ✅ 修正 3：如果是今天剛開始的，顯示「今天已開始」會更直覺
+        const agoText = daysAgo === 0 ? '今天已開始' : `已過去 ${daysAgo} 天`;
+
         const card = document.createElement('div');
         card.className = 'past-card';
         card.style.cursor = 'pointer';
@@ -565,13 +589,13 @@ function renderPastEvents() {
         
         const thumbHtml = event.thumb 
             ? `<img src="${imgSrc(event.thumb)}" class="past-thumb" alt="${event.name}" loading="lazy">`
-            : `<div class="past-thumb" style="display:flex; align-items:center; justify-content:center; font-size:48px; color:#ccc;"></div>`;
+            : `<div class="past-thumb" style="display:flex; align-items:center; justify-content:center; font-size:48px; color:#ccc;">📅</div>`;
 
         card.innerHTML = `
             ${thumbHtml}
             <div class="past-content">
                 <div class="past-name" title="${event.name}">${event.name}</div>
-                <div class="past-ago">已過去 ${daysAgo} 天</div>
+                <div class="past-ago">${agoText}</div>
             </div>
         `;
         container.appendChild(card);
