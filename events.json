@@ -1083,8 +1083,10 @@
     "categories": [
       1
     ],
-    "gallery": [],
-    "thumb": null
+    "gallery": [
+      "images/radio_mracla_final_logo.jpg"
+    ],
+    "thumb": "images/radio_mracla_final_logo.jpg"
   },
   {
     "id": 1787928191572,
@@ -1135,8 +1137,10 @@
     "categories": [
       1
     ],
-    "gallery": [],
-    "thumb": null
+    "gallery": [
+      "images/sehasu_plus_logo.png"
+    ],
+    "thumb": "images/sehasu_plus_logo.png"
   },
   {
     "id": 1790012739842,

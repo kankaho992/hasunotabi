@@ -535,23 +535,26 @@ function parseEventEndTime(event) {
 function renderPastEvents() {
     const container = document.getElementById('past-events');
     if (!container) return;
-
+    
     const now = new Date();
     const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-
+    
     const past = eventsData.filter(e => {
         const start = parseEventStartTime(e);
         const end = parseEventEndTime(e);
-        if (!start) return false;
+        if (!start || !end) return false;
 
-        // ✅ 修正 2：重新定義「剛過去/已發生」的邏輯
-        // 情況 A：已經過了實質結束時間 (包含單日活動預設的 23:59)
-        if (end < now) return true;
-
-        // 情況 B：如果是單日活動 (沒寫 endDate 或 開始結束同天)，且今天已經過了開始時間
-        // 這解決了「今天白天已經開始的活動」在首頁消失的問題
-        const isSingleDay = !e.endDate || (e.startDate === e.endDate);
-        if (isSingleDay && start <= now && start >= sevenDaysAgo) return true;
+        // ✅ 修正：嚴格限制在 7 天內
+        // 情況 A：已經過了實質結束時間 (必須在 7 天內結束)
+        if (end < now) {
+            return end >= sevenDaysAgo;
+        }
+        
+        // 情況 B：還沒過結束時間，但今天已經開始了 (例如單日活動)
+        // 必須在 7 天內開始
+        if (start <= now) {
+            return start >= sevenDaysAgo;
+        }
 
         return false;
     });
@@ -564,7 +567,6 @@ function renderPastEvents() {
     });
 
     container.innerHTML = '';
-
     if (past.length === 0) {
         container.innerHTML = '<p style="color:#999; padding:10px;">最近7天內沒有已結束的活動</p>';
         return;
@@ -579,9 +581,9 @@ function renderPastEvents() {
         const diffMs = now - referenceTime;
         const daysAgo = Math.floor(diffMs / (1000 * 60 * 60 * 24));
         
-        // ✅ 修正 3：如果是今天剛開始的，顯示「今天已開始」會更直覺
+        // 如果是今天剛開始的，顯示「今天已開始」會更直覺
         const agoText = daysAgo === 0 ? '今天已開始' : `已過去 ${daysAgo} 天`;
-
+        
         const card = document.createElement('div');
         card.className = 'past-card';
         card.style.cursor = 'pointer';
@@ -590,7 +592,7 @@ function renderPastEvents() {
         const thumbHtml = event.thumb 
             ? `<img src="${imgSrc(event.thumb)}" class="past-thumb" alt="${event.name}" loading="lazy">`
             : `<div class="past-thumb" style="display:flex; align-items:center; justify-content:center; font-size:48px; color:#ccc;">📅</div>`;
-
+            
         card.innerHTML = `
             ${thumbHtml}
             <div class="past-content">
