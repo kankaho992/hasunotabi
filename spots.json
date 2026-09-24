@@ -275,7 +275,7 @@
     "holiday": "月曜日",
     "phone": "+81762239565",
     "cost": "-",
-    "description": "遊戲「Link！Like！ラブライブ！」OP映像 取景地\n\n2024/01/31舉辦的『103期1月度 Fes×LIVE』取景地\n\n遊戲卡圖［Special Thanks］日野下花帆 特訓後 取景地\n遊戲卡圖［Special Thanks］乙宗梢 特訓後 取景地\n遊戲卡圖［青とシャボン］村野さやか 特訓後 取景地\n遊戲卡圖［青とシャボン］夕霧綴理 特訓後 取景地\n遊戲卡圖［ミルク］大沢瑠璃乃 特訓後 取景地\n遊戲卡圖［ミルク］藤島慈 特訓後 取景地\n\n\"預備!蓮之空!104\" #37 取景地\n\n歌曲「おいでよ！石川大観光」歌詞提及『金箔だって図書館だって』\n\n\"石川縣x蓮之空 聯動項目第三彈 傳統工藝聯動\"地點\n傳統工藝聯動 蓋章額外地點一\nCerise Bouquet (104期) 角色展示板\n\n\"石川縣x蓮之空 聯動項目第四彈 HASUNOSORA FANTASY\"地點\nHASUNOSORA FANTASY蓋章額外地點二\nDOLLCHESTRA(105期) 角色展示板\n\n\"石川縣x蓮之空 聯動項目第五彈 石川大觀光II\"地點\n石川大觀光II蓋章額外地點二\n日野下花帆、塞拉斯・柳田・利林費爾德角色展示板\n\n「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【安養寺 姫芽 石川県立図書館Ver.】販賣地點",
+    "description": "遊戲「Link！Like！ラブライブ！」OP映像 取景地\n\n2024/01/31舉辦的『103期1月度 Fes×LIVE』取景地\n\n遊戲卡圖［Special Thanks］日野下花帆 特訓後 取景地\n遊戲卡圖［Special Thanks］乙宗梢 特訓後 取景地\n遊戲卡圖［青とシャボン］村野さやか 特訓後 取景地\n遊戲卡圖［青とシャボン］夕霧綴理 特訓後 取景地\n遊戲卡圖［ミルク］大沢瑠璃乃 特訓後 取景地\n遊戲卡圖［ミルク］藤島慈 特訓後 取景地\n\n\"預備!蓮之空!104\" #37 取景地\n\n歌曲「おいでよ！石川大観光」歌詞提及『金箔だって図書館だって』\n\n\"石川縣x蓮之空 聯動項目第三彈 傳統工藝聯動\"地點\n傳統工藝聯動 蓋章額外地點一\nCerise Bouquet (104期) 角色展示板\n\n\"石川縣x蓮之空 聯動項目第四彈 HASUNOSORA FANTASY\"地點\nHASUNOSORA FANTASY蓋章額外地點二\nDOLLCHESTRA(105期) 角色展示板\n\n\"石川縣x蓮之空 聯動項目第五彈 石川大觀光II\"地點\n石川大觀光II蓋章額外地點二\n日野下花帆、塞拉斯・柳田・利林費爾德角色展示板\n\n「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【安養寺 姫芽 石川県立図書館Ver.】販賣地點 (1F ハム＆ゴー)",
     "googleMap": "https://maps.app.goo.gl/KfyVLqTLbsBjZVc58",
     "categories": [
       1,
@@ -1543,12 +1543,13 @@
     "hours": "7:00～21:00",
     "holiday": "-",
     "phone": "+81761581805",
-    "cost": "飲食店",
-    "description": "\"石川縣x蓮之空 聯動項目第二彈 加賀友禪聯動\"地點\n加賀友禪聯動 蓋章額外地點二\nMiraCra Park! (103期) 角色展示板\n加賀友禪聯動 聯動周邊販賣點 (北新幹線開通記念POP UP SHOP)\n\"石川縣x蓮之空 聯動項目第三彈 傳統工藝聯動\"地點\n傳統工藝聯動 蓋章活動的台紙領取地點\n聯動角色展示板\n傳統工藝聯動 聯動周邊販賣點",
+    "cost": "飲食店&雜貨店",
+    "description": "\"石川縣x蓮之空 聯動項目第二彈 加賀友禪聯動\"地點\n加賀友禪聯動 蓋章額外地點二\nMiraCra Park! (103期) 角色展示板\n加賀友禪聯動 聯動周邊販賣點 (北新幹線開通記念POP UP SHOP)\n\n\"石川縣x蓮之空 聯動項目第三彈 傳統工藝聯動\"地點\n傳統工藝聯動 蓋章活動的台紙領取地點\n聯動角色展示板\n傳統工藝聯動 聯動周邊販賣點\n\n「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【桂城 泉 小松駅Ver.】販賣地點",
     "googleMap": "https://maps.app.goo.gl/rYmu8jwwrqayvcoZ7",
     "categories": [
       8,
-      9
+      9,
+      14
     ],
     "gallery": [
       "images/ishikawa_colab_komatsukabulet_01.jpg"
@@ -1883,7 +1884,7 @@
     "holiday": "-",
     "phone": "-",
     "cost": "-",
-    "description": "遊戲卡圖［太陽であれ！］村野さやか 特訓前 取景地\n遊戲卡圖［蒼のツバメ］桂城泉 特訓前 取景地",
+    "description": "「北國花火2025 金澤大會」聯動聲優活動地點\n「北國花火2025 金澤大會」聯動坐席地點\n「北國花火2025 金澤大會 」聯動商品販賣地點\n「北國花火2026 金澤大會」聯動聲優活動地點\n「北國花火2026 金澤大會」聯動坐席地點\n「北國花火2026 金澤大會 」聯動商品販賣地點\n\n遊戲卡圖［太陽であれ！］村野さやか 特訓前 取景地\n遊戲卡圖［蒼のツバメ］桂城泉 特訓前 取景地",
     "googleMap": "https://maps.app.goo.gl/jwVK4Sdd2ce8HfMbA",
     "categories": [
       1,
@@ -1892,7 +1893,10 @@
     "gallery": [
       "images/hasu_hanabi2025_01.jpg",
       "images/card_hanabi_01.png",
-      "images/card_hanabi_02.png"
+      "images/card_hanabi_02.png",
+      "images/hasu_hanabi2026_01.jpg",
+      "images/hasu_hanabi2026_02.png",
+      "images/goods_hanabi2026_01.jpg"
     ],
     "thumb": "images/hasu_hanabi2025_01.jpg"
   },
@@ -4898,5 +4902,205 @@
       "images/card_venetian_02.png"
     ],
     "thumb": "images/card_venetian_01.png"
+  },
+  {
+    "id": 1790266049976,
+    "name": "御朱印本店（小松）",
+    "lat": 36.402358,
+    "lng": 136.449316,
+    "address": "石川県小松市八日市町３４",
+    "hours": "9:00～17:00",
+    "holiday": "水曜日",
+    "phone": "+81761218311",
+    "cost": "和菓子店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【日野下 花帆 紅白鏡餅Ver.】販賣地點",
+    "googleMap": "",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_goshuin_01.png"
+    ],
+    "thumb": "images/hasu_goshuin_01.png"
+  },
+  {
+    "id": 1790266306576,
+    "name": "土產店 雪吊之町 (土産処 ゆきつりのまち)",
+    "lat": 36.56532,
+    "lng": 136.663184,
+    "address": "石川県金沢市兼六町２−番13号",
+    "hours": "夏期: 3月1日～10月15日  9:00～18:00 / 冬期:10月16日～2月末日  9:00～17:30",
+    "holiday": "不定休",
+    "phone": "+81762215017",
+    "cost": "手信店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【村野 さやか 金沢城址公園Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/nqfyHxaSWrNFqKjR6",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_yukitsuri_01.jpg"
+    ],
+    "thumb": "images/hasu_yukitsuri_01.jpg"
+  },
+  {
+    "id": 1790266569719,
+    "name": "小松機場 1F 小松土產店",
+    "lat": 36.401081,
+    "lng": 136.414125,
+    "address": "石川県小松市浮柳町ヨ５０ 小松空港ターミナルビル内1階",
+    "hours": "9：00～19：30",
+    "holiday": "-",
+    "phone": "+81761240831",
+    "cost": "手信店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【村野 さやか 小松空港Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/DyFqj9X9ZnBTQHEeA",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_komatsumiyage_01.jpg"
+    ],
+    "thumb": "images/hasu_komatsumiyage_01.jpg"
+  },
+  {
+    "id": 1790266782975,
+    "name": "Science Hills Komatsu",
+    "lat": 36.401546,
+    "lng": 136.455646,
+    "address": "石川県小松市こまつの杜２",
+    "hours": "10:00～17:00",
+    "holiday": "月曜日",
+    "phone": "+81761228610",
+    "cost": "大人\t 500円",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【大沢 瑠璃乃 サイエンスヒルズこまつVer.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/x9dirxGF6jh3jJmr5",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_sciencehills_01.jpg"
+    ],
+    "thumb": "images/hasu_sciencehills_01.jpg"
+  },
+  {
+    "id": 1790267102823,
+    "name": "御朱印 香林坊大和店",
+    "lat": 36.563269,
+    "lng": 136.654108,
+    "address": "石川県金沢市香林坊1-1-1　大和 香林坊店　地下1階",
+    "hours": "10:00～19:00",
+    "holiday": "以香林坊大和為準",
+    "phone": "",
+    "cost": "和菓子店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【百生 吟子 上生菓子Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/x7pKkMZ5ykGjvn3g6",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_goshuindaiwa_01.jpg"
+    ],
+    "thumb": "images/hasu_goshuindaiwa_01.jpg"
+  },
+  {
+    "id": 1790267424534,
+    "name": "金澤站Rinto 土產店",
+    "lat": 36.578524,
+    "lng": 136.648314,
+    "address": "石川県金沢市木ノ新保町1-1 Rinto",
+    "hours": "10:00～20:00",
+    "holiday": "-",
+    "phone": "-",
+    "cost": "手信店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【徒町 小鈴 金沢駅Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/nvFbbRCtnvEEHv289",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_rintomiyage_01.jpg"
+    ],
+    "thumb": "images/hasu_rintomiyage_01.jpg"
+  },
+  {
+    "id": 1790267746799,
+    "name": "石川縣立美術館",
+    "lat": 36.560154,
+    "lng": 136.66121,
+    "address": "石川県金沢市出羽町２−１ 石川県立美術館 内",
+    "hours": "9:30～18:00",
+    "holiday": "-",
+    "phone": "+81762317580",
+    "cost": "商店入店 免費 / 一般入館  370円",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【徒町 小鈴 石川県立美術館Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/zMKGt4SwBvdkDsMZ8",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_artmuseum_01.jpg"
+    ],
+    "thumb": "images/hasu_artmuseum_01.jpg"
+  },
+  {
+    "id": 1790268017694,
+    "name": "兼六園 寄觀亭",
+    "lat": 36.563712,
+    "lng": 136.662734,
+    "address": "石川県金沢市兼六町1-21",
+    "hours": "9:00～16:00",
+    "holiday": "水曜日",
+    "phone": "+81762210696",
+    "cost": "飲食店&手信店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【セラス 柳田 リリエンフェルト 兼六園Ver.】販賣地點 (需入園)",
+    "googleMap": "https://maps.app.goo.gl/jJD3u5A914jJXi8AA",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_kikantei_01.jpg"
+    ],
+    "thumb": "images/hasu_kikantei_01.jpg"
+  },
+  {
+    "id": 1790268223245,
+    "name": "近江町市場 和雜貨muta muta",
+    "lat": 36.571058,
+    "lng": 136.656017,
+    "address": "石川県金沢市下松原町４９",
+    "hours": "9：00～15：30",
+    "holiday": "毎週水曜",
+    "phone": "+81762310756",
+    "cost": "雜貨店",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【セラス 柳田 リリエンフェルト 近江町市場Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/w1BSAd4viKp8aAoz5",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_mutamuta_01.jpg"
+    ],
+    "thumb": "images/hasu_mutamuta_01.jpg"
+  },
+  {
+    "id": 1790268539637,
+    "name": "九谷燒 鏑木商舗",
+    "lat": 36.563842,
+    "lng": 136.650873,
+    "address": "石川県金沢市長町1丁目3−16",
+    "hours": "9:00~18:00",
+    "holiday": "不定休",
+    "phone": "+81762216666",
+    "cost": "",
+    "description": "「百萬先生x蓮之空 石川縣當地鑰匙扣 第二彈」【桂城 泉 長町武家屋敷跡Ver.】販賣地點",
+    "googleMap": "https://maps.app.goo.gl/Hiz3cDi7ywwciu3H9",
+    "categories": [
+      14
+    ],
+    "gallery": [
+      "images/hasu_kaburaki_01.jpg"
+    ],
+    "thumb": "images/hasu_kaburaki_01.jpg"
   }
 ]
