@@ -1132,15 +1132,15 @@
     "endDate": "2026-09-25",
     "time": "20:00",
     "location": "",
-    "description": "",
+    "description": "✨🪷せーはす🪷✨\n\n「せーので！はすのそら！Plus」#11 を公開しました✨\n\n#11 STEP UP ! 旅　ボウリングで奇跡が！！\n\n⏬視聴はこちら\nhttps://youtu.be/PXb8GiCSaCE\n\nぜひご覧ください👀",
     "googleMap": "",
     "categories": [
       1
     ],
     "gallery": [
-      "images/sehasu_plus_logo.png"
+      "images/sehasu_plus_11_01.jpg"
     ],
-    "thumb": "images/sehasu_plus_logo.png"
+    "thumb": "images/sehasu_plus_11_01.jpg"
   },
   {
     "id": 1790012739842,
@@ -1213,9 +1213,9 @@
       1
     ],
     "gallery": [
-      "images/hasu_note_09ill_01.jpg"
+      "images/hasu_note_illust_09_01.jpg"
     ],
-    "thumb": "images/hasu_note_09ill_01.jpg"
+    "thumb": "images/hasu_note_illust_09_01.jpg"
   },
   {
     "id": 1790333127844,
@@ -1418,12 +1418,13 @@
       4
     ],
     "gallery": [
+      "images/goods_nesoberi104fuyum_05.jpeg",
       "images/goods_nesoberi103fuyum_01.jpeg",
       "images/goods_nesoberi103fuyum_02.jpeg",
       "images/goods_nesoberi103fuyum_03.jpeg",
       "images/goods_nesoberi103fuyum_04.jpeg"
     ],
-    "thumb": "images/goods_nesoberi103fuyum_01.jpeg"
+    "thumb": "images/goods_nesoberi104fuyum_05.jpeg"
   },
   {
     "id": 1789477702665,
@@ -1447,7 +1448,7 @@
   },
   {
     "id": 1789820000062,
-    "name": "Youtube頻道會員限定動畫 #90「新江之島水族館約會未公開」",
+    "name": "Youtube頻道會員限定動畫 #90「菅 叶和×櫻井陽菜 ブッフェ未公開」",
     "startDate": "2026-09-18",
     "endDate": "2026-09-18",
     "time": "20:30",
@@ -7510,5 +7511,22 @@
       "images/pv_hasunosora_01_14.png"
     ],
     "thumb": "images/pv_hasunosora_01_01.jpg"
+  },
+  {
+    "id": 1790340761450,
+    "name": "Youtube頻道會員限定動畫 #91「生コメンタリー付き上映会」",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "time": "20:30",
+    "location": "",
+    "description": "🪷YouTubeメンバーシップ情報🪷\n\nメンバーシップ限定動画##91 を公開しました🌟\n\n【メンバーシップ限定動画】#91\n生コメンタリー付き上映会\n\n⏬視聴はこちら\nhttps://youtu.be/lg4I6UgpDxI\n\n⏬メンバーシップのご登録はこちら\nhttps://youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/join\n\nぜひご覧ください👀\n※ゴールドコースに登録されている方のみ視聴可能となっております。",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_memship_91_01.jpg"
+    ],
+    "thumb": "images/sehasu_memship_91_01.jpg"
   }
 ]
