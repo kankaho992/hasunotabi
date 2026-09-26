@@ -46,7 +46,8 @@
       2
     ],
     "gallery": [
-      "images/hasunosoralogo.png"
+      "images/hasunosoralogo.png",
+      "images/live_6.1_103_02.jpg"
     ],
     "thumb": "images/hasunosoralogo.png"
   },
@@ -63,7 +64,8 @@
       2
     ],
     "gallery": [
-      "images/hasunosoralogo.png"
+      "images/hasunosoralogo.png",
+      "images/live_6.1_103_02.jpg"
     ],
     "thumb": "images/hasunosoralogo.png"
   },
@@ -80,7 +82,8 @@
       2
     ],
     "gallery": [
-      "images/hasunosoralogo.png"
+      "images/hasunosoralogo.png",
+      "images/live_6.1_103_02.jpg"
     ],
     "thumb": "images/hasunosoralogo.png"
   },
@@ -460,6 +463,31 @@
     "thumb": "images/goods_ruribirth2026_01.jpg"
   },
   {
+    "id": 1790413601433,
+    "name": "商品發售：MOVIC「蓮之空 Mistgraph複製原畫」受注生產",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-27",
+    "time": "",
+    "location": "",
+    "description": "ムービックより『ラブライブ！蓮ノ空女学院スクールアイドルクラブ』ミストグラフの受注販売が決定！\n\n【受注受付期間】\n2026年7月3日（金）～9月9日（水）\n\n【お届け予定】\n2026年11月末頃予定\n\n詳細につきましては下記URLをご確認ください\n\nムービック：https://www.movic.jp/shop/r/r104126\n\nアニメイト通販：https://www.animate-onlineshop.jp/corner/cc/lovelive-hasunosora-0703goods/cd/4536/",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_mistgraph_01.jpeg",
+      "images/goods_mistgraph_02.jpeg",
+      "images/goods_mistgraph_03.jpeg",
+      "images/goods_mistgraph_04.jpeg",
+      "images/goods_mistgraph_05.jpeg",
+      "images/goods_mistgraph_06.jpeg",
+      "images/goods_mistgraph_07.jpeg",
+      "images/goods_mistgraph_08.jpeg",
+      "images/goods_mistgraph_09.jpeg"
+    ],
+    "thumb": "images/goods_mistgraph_01.jpeg"
+  },
+  {
     "id": 1787928522475,
     "name": "抽選開始 (Upgrade一次)：蓮之空 Link Live Dream ～103期卒業公演～",
     "startDate": "2026-11-21",
@@ -531,6 +559,23 @@
     "thumb": "images/hasunosoralogo.png"
   },
   {
+    "id": 1790341740673,
+    "name": "入金截止：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "time": "21:00",
+    "location": "",
+    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
+    "googleMap": "",
+    "categories": [
+      2
+    ],
+    "gallery": [
+      "images/hasunosoralogo.png"
+    ],
+    "thumb": "images/hasunosoralogo.png"
+  },
+  {
     "id": 1790013131489,
     "name": "商品發售結束：COCOLLABO「POP UP STORE in ロフト」周邊商品 ＜大阪會場＞",
     "startDate": "2026-11-15",
@@ -565,6 +610,23 @@
     "thumb": "images/hasunosoralogo.png"
   },
   {
+    "id": 1790341712089,
+    "name": "結果發表&入金：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "time": "13:00",
+    "location": "",
+    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
+    "googleMap": "",
+    "categories": [
+      2
+    ],
+    "gallery": [
+      "images/hasunosoralogo.png"
+    ],
+    "thumb": "images/hasunosoralogo.png"
+  },
+  {
     "id": 1789926266642,
     "name": "抽選結束：蓮之空 Link Live Dream ～103期卒業公演～ Day.2",
     "startDate": "2026-11-08",
@@ -589,6 +651,23 @@
     "time": "23:59",
     "location": "",
     "description": "★お申込み対象：Day.1　2027年1月23日（土）公演\n2026年10月14日（水）発売\n蓮ノ空女学院スクールアイドルクラブ Extraシングル\n「タイトル未定」\n封入申込券にて受付\n----------\n■受付期間：2026年10月14日（水）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：『シリアルNo.』1つにつき、Day.1公演に2枚までお申込み可能\n----------",
+    "googleMap": "",
+    "categories": [
+      2
+    ],
+    "gallery": [
+      "images/hasunosoralogo.png"
+    ],
+    "thumb": "images/hasunosoralogo.png"
+  },
+  {
+    "id": 1790341666849,
+    "name": "抽選截止：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "time": "23:59",
+    "location": "",
+    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
     "googleMap": "",
     "categories": [
       2
@@ -769,6 +848,23 @@
     "thumb": "images/live_ishikawaII_01.jpeg"
   },
   {
+    "id": 1790406193442,
+    "name": "蓮NOTE：10月附屬漫畫",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-16",
+    "time": "18:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/hasu_note_03.jpg"
+    ],
+    "thumb": "images/hasu_note_03.jpg"
+  },
+  {
     "id": 1787928153708,
     "name": "抽選開始：Link Live Dream ～103期卒業公演～ Day.1",
     "startDate": "2026-10-14",
@@ -918,6 +1014,23 @@
     "thumb": "images/goods_gothicpunk_01.jpg"
   },
   {
+    "id": 1790406149250,
+    "name": "蓮NOTE：10月短篇故事3",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-09",
+    "time": "18:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/hasu_note_03.jpg"
+    ],
+    "thumb": "images/hasu_note_03.jpg"
+  },
+  {
     "id": 1789891800624,
     "name": "商品予約截止：MENEGI「にゅ〜とろシリーズ第二弾」",
     "startDate": "2026-10-05",
@@ -1034,6 +1147,40 @@
       "images/live_kagayakifes2026_02.jpg"
     ],
     "thumb": "live_kagayakifes2026_01.jpg"
+  },
+  {
+    "id": 1790406114138,
+    "name": "蓮NOTE：10月短篇故事2",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-02",
+    "time": "18:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/hasu_note_03.jpg"
+    ],
+    "thumb": "images/hasu_note_03.jpg"
+  },
+  {
+    "id": 1790425720875,
+    "name": "遊戲：「Link！Like！ラブライブ！」離線版下線",
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "time": "",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_close_01.jpg"
+    ],
+    "thumb": "images/linklike_close_01.jpg"
   },
   {
     "id": 1789280639621,
@@ -1235,6 +1382,40 @@
       "images/hasu_note_story_09_03.jpg"
     ],
     "thumb": "images/hasu_note_story_09_01.jpg"
+  },
+  {
+    "id": 1790340761450,
+    "name": "Youtube頻道會員限定動畫 #91「生コメンタリー付き上映会」",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "time": "20:30",
+    "location": "",
+    "description": "🪷YouTubeメンバーシップ情報🪷\n\nメンバーシップ限定動画##91 を公開しました🌟\n\n【メンバーシップ限定動画】#91\n生コメンタリー付き上映会\n\n⏬視聴はこちら\nhttps://youtu.be/lg4I6UgpDxI\n\n⏬メンバーシップのご登録はこちら\nhttps://youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/join\n\nぜひご覧ください👀\n※ゴールドコースに登録されている方のみ視聴可能となっております。",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_memship_91_01.jpg"
+    ],
+    "thumb": "images/sehasu_memship_91_01.jpg"
+  },
+  {
+    "id": 1790341621833,
+    "name": "抽選開始：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "time": "12:00",
+    "location": "",
+    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
+    "googleMap": "",
+    "categories": [
+      2
+    ],
+    "gallery": [
+      "images/hasunosoralogo.png"
+    ],
+    "thumb": "images/hasunosoralogo.png"
   },
   {
     "id": 1788881224349,
@@ -1795,6 +1976,31 @@
       "images/sehasu_memship_89_01.jpg"
     ],
     "thumb": "images/sehasu_memship_89_01.jpg"
+  },
+  {
+    "id": 1790413672649,
+    "name": "商品予約截止：MOVIC「蓮之空 Mistgraph複製原畫」受注生產",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-09",
+    "time": "23:59",
+    "location": "",
+    "description": "ムービックより『ラブライブ！蓮ノ空女学院スクールアイドルクラブ』ミストグラフの受注販売が決定！\n\n【受注受付期間】\n2026年7月3日（金）～9月9日（水）\n\n【お届け予定】\n2026年11月末頃予定\n\n詳細につきましては下記URLをご確認ください\n\nムービック：https://www.movic.jp/shop/r/r104126\n\nアニメイト通販：https://www.animate-onlineshop.jp/corner/cc/lovelive-hasunosora-0703goods/cd/4536/",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_mistgraph_01.jpeg",
+      "images/goods_mistgraph_02.jpeg",
+      "images/goods_mistgraph_03.jpeg",
+      "images/goods_mistgraph_04.jpeg",
+      "images/goods_mistgraph_05.jpeg",
+      "images/goods_mistgraph_06.jpeg",
+      "images/goods_mistgraph_07.jpeg",
+      "images/goods_mistgraph_08.jpeg",
+      "images/goods_mistgraph_09.jpeg"
+    ],
+    "thumb": "images/goods_mistgraph_01.jpeg"
   },
   {
     "id": 1789926665194,
@@ -2499,6 +2705,32 @@
     "thumb": "images/sehasu_plus_03_01.jpg"
   },
   {
+    "id": 1790410018685,
+    "name": "商品WEB發售：DONKI「蓮之空Summer Vacation」聯動商品",
+    "startDate": "2026-07-31",
+    "endDate": "2026-07-31",
+    "time": "12:00",
+    "location": "",
+    "description": "サマーバケーション風衣装にご注目！新規描き下ろしイラストの公開です♪\n描き下ろし限定グッズも登場✨\n\nドン・キホーテ対象店舗の店頭にて2026年7月25日（土）より販売開始です！\n※ECサイトでは7月31日(金)より販売開始になります。\n\n◆ドン・キホーテ公式サイト特設ページ\nhttps://www.donki.com/products/lovelive-hasunosora/\n\n◆エニマイ(ECサイト)URL\nhttps://anymy.jp/store/products/list.php?category_id=70\n\n\nアクリルスタンドBIG　全8種　各1,925円（税込）\nサイズ：本体/H150㎜×W80㎜以内　台座/H53㎜×W60㎜以内\n\nクリアファイル2枚セット　全4種　990円（税込）\nサイズ：A4\n\nクリアカード　全8種ランダム　各880円（税込）\nサイズ：H90×W60mm以内\n\nアクリルキーホルダー　全8種ランダム　770円（税込）\nサイズ：W約67×H約52mm\n\nハート缶バッジ　全8種ランダム　各605円（税込）\nサイズ：約W53×H57mm\n\nもちどる　全8種　各3,938円（税込）\nサイズ：約W270×H250mm\n\nTシャツ　全1種　各2,750円（税込）\nサイズ：L\n※秋葉原店、MEGAドン・キホーテ ラパーク金沢店の2店舗限定での販売です。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_donki105_01.jpg",
+      "images/goods_donki105_02.jpg",
+      "images/goods_donki105_03.jpg",
+      "images/goods_donki105_04.jpg",
+      "images/goods_donki105_05.jpg",
+      "images/goods_donki105_06.jpg",
+      "images/goods_donki105_07.jpg",
+      "images/goods_donki105_08.jpg",
+      "images/goods_donki105_09.jpg",
+      "images/goods_donki105_10.png"
+    ],
+    "thumb": "images/goods_donki105_01.jpg"
+  },
+  {
     "id": 1790014839009,
     "name": "BD發售：『蓮之空 5th Live Tour ～4Pair Power Spread!!!!～ Blu-ray Memorial BOX』",
     "startDate": "2026-07-29",
@@ -2537,6 +2769,26 @@
       "images/bd_hasu5th_24.jpeg"
     ],
     "thumb": "images/bd_hasu5th_01.jpg"
+  },
+  {
+    "id": 1790406469754,
+    "name": "商品發售：Furyu「きゅるまるぬいぐるみ」玩偶 (Game Center抓玩偶機)",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-28",
+    "time": "",
+    "location": "",
+    "description": "フリュー株式会社より「きゅるまるぬいぐるみ」が再登場！\n皆様のご要望にお応えし、7月第5週より全国のゲームセンターにて順次一斉に展開予定です\n※7月第5週より全国のゲームセンターにて順次展開予定。\n※画像はイメージです。実際の商品とは異なる場合があります。\n※アミューズメント専用景品のため、非売品です。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_furyu105_01.jpg",
+      "images/goods_furyu105_02.jpg",
+      "images/goods_furyu105_03.jpg",
+      "images/goods_furyu105_04.jpg"
+    ],
+    "thumb": "images/goods_furyu105_01.jpg"
   },
   {
     "id": 1790015010751,
@@ -2610,6 +2862,31 @@
     "thumb": "images/hasu_hanabi2026_01.jpg"
   },
   {
+    "id": 1790409957949,
+    "name": "商品發售：DONKI「蓮之空Summer Vacation」聯動商品",
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "time": "10:00",
+    "location": "各地Donki對象店舖",
+    "description": "サマーバケーション風衣装にご注目！新規描き下ろしイラストの公開です♪\n描き下ろし限定グッズも登場✨\n\nドン・キホーテ対象店舗の店頭にて2026年7月25日（土）より販売開始です！\n※ECサイトでは7月31日(金)より販売開始になります。\n\n◆ドン・キホーテ公式サイト特設ページ\nhttps://www.donki.com/products/lovelive-hasunosora/\n\n◆エニマイ(ECサイト)URL\nhttps://anymy.jp/store/products/list.php?category_id=70\n\n\nアクリルスタンドBIG　全8種　各1,925円（税込）\nサイズ：本体/H150㎜×W80㎜以内　台座/H53㎜×W60㎜以内\n\nクリアファイル2枚セット　全4種　990円（税込）\nサイズ：A4\n\nクリアカード　全8種ランダム　各880円（税込）\nサイズ：H90×W60mm以内\n\nアクリルキーホルダー　全8種ランダム　770円（税込）\nサイズ：W約67×H約52mm\n\nハート缶バッジ　全8種ランダム　各605円（税込）\nサイズ：約W53×H57mm\n\nもちどる　全8種　各3,938円（税込）\nサイズ：約W270×H250mm\n\nTシャツ　全1種　各2,750円（税込）\nサイズ：L\n※秋葉原店、MEGAドン・キホーテ ラパーク金沢店の2店舗限定での販売です。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_donki105_01.jpg",
+      "images/goods_donki105_02.jpg",
+      "images/goods_donki105_03.jpg",
+      "images/goods_donki105_04.jpg",
+      "images/goods_donki105_05.jpg",
+      "images/goods_donki105_06.jpg",
+      "images/goods_donki105_07.jpg",
+      "images/goods_donki105_08.jpg",
+      "images/goods_donki105_09.jpg"
+    ],
+    "thumb": "images/goods_donki105_01.jpg"
+  },
+  {
     "id": 1790186936951,
     "name": "Youtube頻道會員限定動畫 #82「サマーゲーム せーので！跳びましょう！」",
     "startDate": "2026-07-24",
@@ -2678,6 +2955,27 @@
     "thumb": "images/cd_hasumovieOST_01.jpg"
   },
   {
+    "id": 1790348461606,
+    "name": "Live物販事後通販結束：「蓮之空 6th Live Dream ～Bloom Garden Party～」",
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-20",
+    "time": "23:59",
+    "location": "",
+    "description": "🪷ライブグッズ情報🪷\n\nラブライブ！蓮ノ空女学院スクールアイドルクラブ \n6th Live Dream ～Bloom Garden Party～\n\n／\nオフィシャルグッズの\n事後通販（受注対象商品含む）受付中💨💨\n＼\n\n受付は7月20日(月)23:59まで\nくれぐれもお見逃しなく🎶\n\n詳細はこちら🔽\nhttps://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=6thBGP#goods\n\nご注文はこちらから🛒\nhttps://lovelive.fannect.jp/collections/ll-43-03",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/live_6thtour_01.png",
+      "images/live_6thtour_09.png",
+      "images/live_6thtour_16.png",
+      "images/live_6thtour_19.png",
+      "images/live_6thtour_20.png"
+    ],
+    "thumb": "images/live_6thtour_01.png"
+  },
+  {
     "id": 1790270038731,
     "name": "Youtube廣播：「MiraCra補習室Radio THE FINAL」第2FINAL「ほんとに行くの？これで？」",
     "startDate": "2026-07-19",
@@ -2707,9 +3005,10 @@
       4
     ],
     "gallery": [
+      "images/goods_ruribox_02.jpg",
       "goods_ruribox_01.jpg"
     ],
-    "thumb": "goods_ruribox_01.jpg"
+    "thumb": "images/goods_ruribox_02.jpg"
   },
   {
     "id": 1790269945331,
@@ -2746,13 +3045,51 @@
     "thumb": "images/sehasu_plus_01_01.jpg"
   },
   {
+    "id": 1790348406382,
+    "name": "Live物販事後通販開始：「蓮之空 6th Live Dream ～Bloom Garden Party～」",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-14",
+    "time": "18:00",
+    "location": "",
+    "description": "🪷ライブグッズ情報🪷\n\nラブライブ！蓮ノ空女学院スクールアイドルクラブ \n6th Live Dream ～Bloom Garden Party～\n\n／\nオフィシャルグッズの\n事後通販（受注対象商品含む）受付中💨💨\n＼\n\n受付は7月20日(月)23:59まで\nくれぐれもお見逃しなく🎶\n\n詳細はこちら🔽\nhttps://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=6thBGP#goods\n\nご注文はこちらから🛒\nhttps://lovelive.fannect.jp/collections/ll-43-03",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/live_6thtour_01.png",
+      "images/live_6thtour_09.png",
+      "images/live_6thtour_16.png",
+      "images/live_6thtour_19.png",
+      "images/live_6thtour_20.png"
+    ],
+    "thumb": "images/live_6thtour_01.png"
+  },
+  {
+    "id": 1790391688115,
+    "name": "Youtube頻道會員限定動畫 #80「金沢舞台挨拶 櫻井陽菜の1日」",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-13",
+    "time": "19:30",
+    "location": "",
+    "description": "🪷YouTubeメンバーシップ情報🪷\n\nメンバーシップ限定動画#80を公開しました🌟\n\n【メンバーシップ限定動画】#80\n金沢舞台挨拶 櫻井陽菜の1日\n\n⏬視聴はこちら\nhttps://youtu.be/H8GcGhogDMA\n\n⏬メンバーシップのご登録はこちら\nhttps://youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/join\n\nぜひご覧ください👀\n※ゴールドコースに登録されている方のみ視聴可能となっております。",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_memship_80_01.jpg"
+    ],
+    "thumb": "images/sehasu_memship_80_01.jpg"
+  },
+  {
     "id": 1788675123751,
-    "name": "Live: 蓮之空 6th Live Dream ～Bloom Garden Party～ ＜Bloom Garden Party Stage／埼玉公演＞ Day.2",
+    "name": "Live：蓮之空 6th Live Dream ～Bloom Garden Party～ ＜Bloom Garden Party Stage／埼玉公演＞ Day.2",
     "startDate": "2026-07-12",
     "endDate": "2026-07-12",
     "time": "13:00開場／15:00開演",
     "location": "西武巨蛋 (Belluna巨蛋)",
-    "description": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ 6th Live Dream ～Bloom Garden Party～\n\n＜Bloom Garden Party Stage／埼玉公演＞\nDay.2　2026年7月12日（日）13:00開場／15:00開演\n【会場】埼玉・ベルーナドーム\n※Bloom Garden Party Stage／埼玉公演は、公演中に休憩時間を設けさせていただきます。\n\n【出演】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、菅 叶和（大沢瑠璃乃役）、\n櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、\n三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n花宮初奈（乙宗 梢役）、佐々木琴子（夕霧綴理役）、月音こな（藤島 慈役）\n\n【チケット料金】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n全席指定：14,500円（税込）\n当日券／全席指定：15,000円（税込）\nスタンド後方指定席：10,000円（税込）\n当日券／スタンド後方指定席：10,500円（税込）\nU-20割引チケット：7,000円（税込）\n●スタンド後方指定席・・・全席指定より後方（スタンド上段）のお席となる予定です。座席エリアの詳細な位置のご案内はしておりません。あらかじめご了承ください。一般発売から販売いたします。",
+    "description": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ 6th Live Dream ～Bloom Garden Party～\n\n＜Bloom Garden Party Stage／埼玉公演＞\nDay.2　2026年7月12日（日）13:00開場／15:00開演\n【会場】埼玉・ベルーナドーム\n※Bloom Garden Party Stage／埼玉公演は、公演中に休憩時間を設けさせていただきます。\n\n【出演】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、菅 叶和（大沢瑠璃乃役）、\n櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、\n三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n花宮初奈（乙宗 梢役）、佐々木琴子（夕霧綴理役）、月音こな（藤島 慈役）\n\n【チケット料金】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n全席指定：14,500円（税込）\n当日券／全席指定：15,000円（税込）\nスタンド後方指定席：10,000円（税込）\n当日券／スタンド後方指定席：10,500円（税込）\nU-20割引チケット：7,000円（税込）\n●スタンド後方指定席・・・全席指定より後方（スタンド上段）のお席となる予定です。座席エリアの詳細な位置のご案内はしておりません。あらかじめご了承ください。一般発売から販売いたします。\n\n🔽セトリプレイリストはこちら！🎧\nDay.1\nhttps://lnk.to/LLHS6thBGP1\n \nDay.2\nhttps://lnk.to/LLHS6thBGP2\n\n「見逃してしまった！💦」「もう一度じっくり見たい！👀」という方へ！\n各種配信チケット販売中です！\n\n🔽配信詳細はこちら！🎫\nhttps://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=6thBGP#VW6iRMQ7vm",
     "googleMap": "https://maps.app.goo.gl/jqZDitJmziYWfnBKA",
     "categories": [
       2
@@ -2760,6 +3097,7 @@
     "gallery": [
       "images/live_6thtour_01.png",
       "images/live_6thtour_02.png",
+      "images/live_6thtour_31.jpg",
       "images/live_6thtour_03.png",
       "images/live_6thtour_04.png",
       "images/live_6thtour_05.png",
@@ -2781,18 +3119,37 @@
       "images/live_6thtour_21.png",
       "images/live_6thtour_30.png",
       "images/live_6thtour_22.png",
-      "images/live_6thtour_29_d2.png"
+      "images/live_6thtour_29_d2.png",
+      "images/live_6thtour_32.jpg"
     ],
     "thumb": "images/live_6thtour_01.png"
   },
   {
+    "id": 1790408091272,
+    "name": "Youtube廣播：「MiraCra補習室Radio THE FINAL」第12FINAL「頑張り出した、ありがとう」",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-12",
+    "time": "12:00",
+    "location": "",
+    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive\n\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n⌚明日7月12日（日）正午より配信スタート！\n\n第1FINAL回「頑張り出した、ありがとう」\nプレミア公開ページOPEN！\n\nみらくら〇〇室ラジオの4年間の集大成を飾る、\nやりのこしたことをやれるだけやる予定のラジオ！\n明日のライブの前にみんなで聞いてほしいみら！\n\n▼プレミア公開ページ\nhttps://youtu.be/xpH-CdE8cjc",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/radio_mracla_final_01_01.jpg",
+      "images/radio_mracla_final_01_02.jpg"
+    ],
+    "thumb": "images/radio_mracla_final_01_01.jpg"
+  },
+  {
     "id": 1788675064607,
-    "name": "Live: 蓮之空 6th Live Dream ～Bloom Garden Party～ ＜Bloom Garden Party Stage／埼玉公演＞ Day.1",
+    "name": "Live：蓮之空 6th Live Dream ～Bloom Garden Party～ ＜Bloom Garden Party Stage／埼玉公演＞ Day.1",
     "startDate": "2026-07-11",
     "endDate": "2026-07-11",
     "time": "14:00開場／16:00開演",
     "location": "西武巨蛋 (Belluna巨蛋)",
-    "description": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ 6th Live Dream ～Bloom Garden Party～\n\n＜Bloom Garden Party Stage／埼玉公演＞\nDay.1　2026年7月11日（土）14:00開場／16:00開演\n【会場】埼玉・ベルーナドーム\n※Bloom Garden Party Stage／埼玉公演は、公演中に休憩時間を設けさせていただきます。\n\n【出演】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、菅 叶和（大沢瑠璃乃役）、\n櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、\n三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n花宮初奈（乙宗 梢役）、佐々木琴子（夕霧綴理役）、月音こな（藤島 慈役）\n\n【チケット料金】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n全席指定：14,500円（税込）\n当日券／全席指定：15,000円（税込）\nスタンド後方指定席：10,000円（税込）\n当日券／スタンド後方指定席：10,500円（税込）\nU-20割引チケット：7,000円（税込）\n●スタンド後方指定席・・・全席指定より後方（スタンド上段）のお席となる予定です。座席エリアの詳細な位置のご案内はしておりません。あらかじめご了承ください。一般発売から販売いたします。",
+    "description": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ 6th Live Dream ～Bloom Garden Party～\n\n＜Bloom Garden Party Stage／埼玉公演＞\nDay.1　2026年7月11日（土）14:00開場／16:00開演\n【会場】埼玉・ベルーナドーム\n※Bloom Garden Party Stage／埼玉公演は、公演中に休憩時間を設けさせていただきます。\n\n【出演】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、菅 叶和（大沢瑠璃乃役）、\n櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、\n三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n花宮初奈（乙宗 梢役）、佐々木琴子（夕霧綴理役）、月音こな（藤島 慈役）\n\n【チケット料金】\n★対象公演：＜Bloom Garden Party Stage／埼玉公演＞\n全席指定：14,500円（税込）\n当日券／全席指定：15,000円（税込）\nスタンド後方指定席：10,000円（税込）\n当日券／スタンド後方指定席：10,500円（税込）\nU-20割引チケット：7,000円（税込）\n●スタンド後方指定席・・・全席指定より後方（スタンド上段）のお席となる予定です。座席エリアの詳細な位置のご案内はしておりません。あらかじめご了承ください。一般発売から販売いたします。\n\n🔽セトリプレイリストはこちら！🎧\nDay.1\nhttps://lnk.to/LLHS6thBGP1\n \nDay.2\nhttps://lnk.to/LLHS6thBGP2\n\n「見逃してしまった！💦」「もう一度じっくり見たい！👀」という方へ！\n各種配信チケット販売中です！\n\n🔽配信詳細はこちら！🎫\nhttps://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=6thBGP#VW6iRMQ7vm",
     "googleMap": "https://maps.app.goo.gl/jqZDitJmziYWfnBKA",
     "categories": [
       2
@@ -2800,6 +3157,7 @@
     "gallery": [
       "images/live_6thtour_01.png",
       "images/live_6thtour_02.png",
+      "images/live_6thtour_31.jpg",
       "images/live_6thtour_03.png",
       "images/live_6thtour_04.png",
       "images/live_6thtour_05.png",
@@ -2821,13 +3179,478 @@
       "images/live_6thtour_21.png",
       "images/live_6thtour_30.png",
       "images/live_6thtour_22.png",
-      "images/live_6thtour_29_d1.png"
+      "images/live_6thtour_29_d1.png",
+      "images/live_6thtour_33.png",
+      "images/live_6thtour_34.jpg",
+      "images/live_6thtour_35.jpg",
+      "images/live_6thtour_36.jpg",
+      "images/live_6thtour_37.jpg",
+      "images/live_6thtour_38.jpg",
+      "images/live_6thtour_39.jpg"
     ],
     "thumb": "images/live_6thtour_01.png"
   },
   {
+    "id": 1790413028298,
+    "name": "Live物販：蓮之空 6th Live Dream ～Bloom Garden Party～ ＜Bloom Garden Party Stage／埼玉公演＞",
+    "startDate": "2026-07-11",
+    "endDate": "2026-07-12",
+    "time": "10:00",
+    "location": "西武巨蛋",
+    "description": "🪷ライブイベント情報🪷\n#蓮ノ空6th埼玉Day1 物販情報 \n\n会場物販はこのあと10:00より開始です！\n詳細はこちらから！🛒\nhttps://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=6thBGP#merch\n\n\n🪷ライブイベント情報🪷\n#蓮ノ空6th埼玉Day2 物販情報 \n\n会場物販はこのあと10:00より開始です！\n詳細はこちらから！🛒\nhttps://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=6thBGP#merch",
+    "googleMap": "https://maps.app.goo.gl/jqZDitJmziYWfnBKA",
+    "categories": [
+      2,
+      4
+    ],
+    "gallery": [
+      "images/live_6thtour_03.png",
+      "images/live_6thtour_04.png",
+      "images/live_6thtour_05.png",
+      "images/live_6thtour_06.png",
+      "images/live_6thtour_07.png",
+      "images/live_6thtour_08.png",
+      "images/live_6thtour_09.png",
+      "images/live_6thtour_10.png",
+      "images/live_6thtour_11.png",
+      "images/live_6thtour_12.png",
+      "images/live_6thtour_13.png",
+      "images/live_6thtour_14.png",
+      "images/live_6thtour_15.png",
+      "images/live_6thtour_16.png",
+      "images/live_6thtour_17.png",
+      "images/live_6thtour_18.png",
+      "images/live_6thtour_19.png",
+      "images/live_6thtour_20.png",
+      "images/live_6thtour_21.png"
+    ],
+    "thumb": "images/live_6thtour_03.png"
+  },
+  {
+    "id": 1790413193250,
+    "name": "蓮之空餐車：安養寺姫芽生日特飲&特典",
+    "startDate": "2026-07-11",
+    "endDate": "2026-07-12",
+    "time": "10:00-15:00",
+    "location": "西武巨蛋",
+    "description": "『ラブライブ！蓮ノ空女学院スクールアイドルクラブ 6th Live Dream ～Bloom Garden Party～ Bloom Garden Party Stage』埼玉公演にて、蓮ノ空キッチンカーの出店が決定！\n\n『ラブライブ！蓮ノ空女学院スクールアイドルクラブ 6th Live Dream ～Bloom Garden Party～ Bloom Garden Party Stage』埼玉公演にて、蓮ノ空キッチンカーの出店が決定いたしました！\nここでしか味わえないドリンクの販売や、限定コースターとメモリーズスナップをご用意しております！是非皆様お誘いあわせの上、ご来店ください！\n\n★『6th Live Dream ～Bloom Garden Party～Bloom Garden Party Stage』埼玉公演出店メニュー★\n\n【開催日時】\n2026年7月11日（土）　10:00～16:00\n2026年7月12日（日）　10:00～15:00\n\n【出店場所】\nベルーナドーム\n\n【注意事項】\n・お会計は現金、クレジットカード、IC、QR決済がご利用いただけます。\n詳しくはレジにてスタッフへお尋ねください。\n・１回のお会計でドリンク３杯までご注文いただけます。\n・特典はランダムでのお渡しとなり、絵柄はお選びいただけません。\n・特典は無くなり次第終了となります。\n・特典の転売行為は禁止です。\n・内容は予告なく変更になる場合がございます。\n・万が一、配布不備・不足があった場合は、ご購入当日に限り対応させていただきます。\n・特典の不良交換は絵柄に関与しない箇所(背面など)は対象外です。\n　(例)微細な傷/角潰れ/へこみ/スレ",
+    "googleMap": "https://maps.app.goo.gl/jqZDitJmziYWfnBKA",
+    "categories": [
+      2,
+      4
+    ],
+    "gallery": [
+      "images/live_6thtour_41.jpg"
+    ],
+    "thumb": "images/live_6thtour_41.jpg"
+  },
+  {
+    "id": 1790409434182,
+    "name": "Youtube頻道：「活動記録＋105期 Final Term Fes×LIVE STAGE」同時視聽會",
+    "startDate": "2026-07-10",
+    "endDate": "2026-07-10",
+    "time": "18:30",
+    "location": "",
+    "description": "🪷ブルパ開催直前！🪷\n7/11日(土)、12日(日)\n6th Live Dream ～Bloom Garden Party～\n＜Bloom Garden Party Stage／埼玉公演＞\n@ベルーナドーム開催記念🎉\n\n明日7/10(金)18:30より…\n\n ／\n　活動記録＋105期 Final Term Fes×LIVE STAGE\n　プレミア公開！✨\n　https://youtu.be/h79SOc2uIYk\n ＼\n\nブルパ開催前日！ぜひ一緒に楽しみましょう！🎵",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/live_6thtour_40.jpg"
+    ],
+    "thumb": "images/live_6thtour_40.jpg"
+  },
+  {
+    "id": 1790410363285,
+    "name": "Youtube頻道：Lyric Video公開「不思議と君とライブラリー（B. G. P. Ver.）」",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-09",
+    "time": "21:00",
+    "location": "",
+    "description": "🪷ブルパ開催直前！🪷\n7/11日(土)、12日(日)\n6th Live Dream ～Bloom Garden Party～\n＜Bloom Garden Party Stage／埼玉公演＞\n@ベルーナドームの開催まで\n\n　 ／\n📢あと5⃣日！\n　 ＼\n\nブルパ開催を記念し明日よりリリックビデオをプレミア公開！\n\n7/7(火)21:00 みらくらぱーく！\n「トモダチになれる場所（B. G. P. Ver.）」\n🎵 https://youtu.be/fwnt3eDfe9M\n\n7/8(水)21:00 DOLLCHESTRA\n「アイシイ（B. G. P. Ver.）」\n🎵 https://youtu.be/3HmjxWSaV4U\n\n7/9(木)21:00 スリーズブーケ\n「不思議と君とライブラリー（B. G. P. Ver.）」\n🎵 https://youtu.be/NLii9gfG8Ng\n\nお楽しみに✨",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/video_hushigilibrary_01.jpg"
+    ],
+    "thumb": "images/video_hushigilibrary_01.jpg"
+  },
+  {
+    "id": 1790410320117,
+    "name": "Youtube頻道：Lyric Video公開「アイシイ（B. G. P. Ver.）」",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-08",
+    "time": "21:00",
+    "location": "",
+    "description": "🪷ブルパ開催直前！🪷\n7/11日(土)、12日(日)\n6th Live Dream ～Bloom Garden Party～\n＜Bloom Garden Party Stage／埼玉公演＞\n@ベルーナドームの開催まで\n\n　 ／\n📢あと5⃣日！\n　 ＼\n\nブルパ開催を記念し明日よりリリックビデオをプレミア公開！\n\n7/7(火)21:00 みらくらぱーく！\n「トモダチになれる場所（B. G. P. Ver.）」\n🎵 https://youtu.be/fwnt3eDfe9M\n\n7/8(水)21:00 DOLLCHESTRA\n「アイシイ（B. G. P. Ver.）」\n🎵 https://youtu.be/3HmjxWSaV4U\n\n7/9(木)21:00 スリーズブーケ\n「不思議と君とライブラリー（B. G. P. Ver.）」\n🎵 https://youtu.be/NLii9gfG8Ng\n\nお楽しみに✨",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/video_icy_01.jpg"
+    ],
+    "thumb": "images/video_icy_01.jpg"
+  },
+  {
+    "id": 1790410285013,
+    "name": "Youtube頻道：Lyric Video公開「トモダチになれる場所（B. G. P. Ver.）」",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-07",
+    "time": "21:00",
+    "location": "",
+    "description": "🪷ブルパ開催直前！🪷\n7/11日(土)、12日(日)\n6th Live Dream ～Bloom Garden Party～\n＜Bloom Garden Party Stage／埼玉公演＞\n@ベルーナドームの開催まで\n\n　 ／\n📢あと5⃣日！\n　 ＼\n\nブルパ開催を記念し明日よりリリックビデオをプレミア公開！\n\n7/7(火)21:00 みらくらぱーく！\n「トモダチになれる場所（B. G. P. Ver.）」\n🎵 https://youtu.be/fwnt3eDfe9M\n\n7/8(水)21:00 DOLLCHESTRA\n「アイシイ（B. G. P. Ver.）」\n🎵 https://youtu.be/3HmjxWSaV4U\n\n7/9(木)21:00 スリーズブーケ\n「不思議と君とライブラリー（B. G. P. Ver.）」\n🎵 https://youtu.be/NLii9gfG8Ng\n\nお楽しみに✨",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/video_tomodachi_01.jpg"
+    ],
+    "thumb": "images/video_tomodachi_01.jpg"
+  },
+  {
+    "id": 1790410451229,
+    "name": "Youtube頻道：會員限定動畫 #79「＜Party Stage／神奈川公演＞ メイキング」",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-06",
+    "time": "19:30",
+    "location": "",
+    "description": "🪷YouTubeメンバーシップ情報🪷\n\nメンバーシップ限定動画#79を公開しました🌟\n\n【メンバーシップ限定動画】#79\n＜Party Stage／神奈川公演＞\nメイキング\n\n⏬視聴はこちら\nhttps://youtu.be/MVlJodievE0\n\n⏬メンバーシップのご登録はこちら\nhttps://youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/join\n\nぜひご覧ください👀\n※ゴールドコースに登録されている方のみ視聴可能となっております。",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_memship_79_01.jpg"
+    ],
+    "thumb": "images/sehasu_memship_79_01.jpg"
+  },
+  {
+    "id": 1790410562117,
+    "name": "Youtube頻道：「ブルパ開催！映画大入り祈願！inせーので！はすのそら！」 #14「蓮ノ三連華3Sトーク後半 」",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-06",
+    "time": "19:00",
+    "location": "Cafe&Restaurant STELLA",
+    "description": "✨🪷せーはす🪷✨\n\n「ブルパ開催！映画大入り祈願！inせーので！はすのそら！」#14 を公開しました🌟\n\n#14 蓮ノ三連華3Sトーク後半\n\n⏬視聴はこちら\nhttps://youtu.be/5GA-DVUvJ0E\n\nぜひご覧ください👀",
+    "googleMap": "https://maps.app.goo.gl/F1ZgfNo12cdFQZebA",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_bgp_14_01.jpg"
+    ],
+    "thumb": "images/sehasu_bgp_14_01.jpg"
+  },
+  {
+    "id": 1790412470634,
+    "name": "廣播節目：FM802『802 Palette』 Edel Note出演",
+    "startDate": "2026-07-05",
+    "endDate": "2026-07-05",
+    "time": "01:00",
+    "location": "",
+    "description": "🗓️7/4(土)25時～📡\nFM802『802 Palette』🎨\n━━━━━━━━━━━━ ✧\n\n#蓮ノ空 ❮ Edel Note ❯が登場！🪷\n6th Live Dream ～Bloom Garden Party～\n開催直前！ブルパお誘いメッセージ🌸\n\n✧ ━━━━━━━━━━━━\n\n🔻#ハチパレ 聴く🌈\nhttp://radiko.jp/share/?sid=802&t=20260704250000",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/radio_fm802_2607_01.jpg"
+    ],
+    "thumb": "images/radio_fm802_2607_01.jpg"
+  },
+  {
+    "id": 1790412708826,
+    "name": "抽獎截止：「電影蓮之空 電影票根抽獎活動」",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-03",
+    "time": "23:59",
+    "location": "",
+    "description": "🪷#映画蓮ノ空🪷\n\n＼ 応募期間はこのあと23:59まで！ ／\n  🎫映画蓮ノ空 半券キャンペーン🎫\n\n半券対象期間中に #映画蓮ノ空 を鑑賞いただいた半券または、入場QRコードでご応募くださいね♪\n\n【半券対象期間】\n～6月30日(火)23:59\n【応募期間】\n～7月3日(金)23:59\n\n🔽ご応募はこちら\nhttps://lovelive-anime.jp/hasunosora/movie/hanken-cp/\n\nご応募をお忘れなく❣",
+    "googleMap": "",
+    "categories": [
+      5
+    ],
+    "gallery": [
+      "images/Film_hasufilm_10.jpg"
+    ],
+    "thumb": "images/Film_hasufilm_10.jpg"
+  },
+  {
+    "id": 1790412773274,
+    "name": "Youtube頻道：會員限定動畫 #78「＜Garden Stage／兵庫公演＞ メイキング②」",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-03",
+    "time": "19:30",
+    "location": "",
+    "description": "🪷YouTubeメンバーシップ情報🪷\n\nメンバーシップ限定動画#78を公開しました🌟\n\n【メンバーシップ限定動画】#78\n＜Garden Stage／兵庫公演＞\nメイキング②\n\n⏬視聴はこちら\nhttps://youtu.be/as0v7AeLPmE\n\n⏬メンバーシップのご登録はこちら\nhttps://youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/join\n\nぜひご覧ください👀\n※ゴールドコースに登録されている方のみ視聴可能となっております。",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_memship_78_01.jpg"
+    ],
+    "thumb": "images/sehasu_memship_78_01.jpg"
+  },
+  {
+    "id": 1790413640713,
+    "name": "商品予約：MOVIC「蓮之空 Mistgraph複製原畫」受注生產",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-03",
+    "time": "17:00",
+    "location": "",
+    "description": "ムービックより『ラブライブ！蓮ノ空女学院スクールアイドルクラブ』ミストグラフの受注販売が決定！\n\n【受注受付期間】\n2026年7月3日（金）～9月9日（水）\n\n【お届け予定】\n2026年11月末頃予定\n\n詳細につきましては下記URLをご確認ください\n\nムービック：https://www.movic.jp/shop/r/r104126\n\nアニメイト通販：https://www.animate-onlineshop.jp/corner/cc/lovelive-hasunosora-0703goods/cd/4536/",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_mistgraph_01.jpeg",
+      "images/goods_mistgraph_02.jpeg",
+      "images/goods_mistgraph_03.jpeg",
+      "images/goods_mistgraph_04.jpeg",
+      "images/goods_mistgraph_05.jpeg",
+      "images/goods_mistgraph_06.jpeg",
+      "images/goods_mistgraph_07.jpeg",
+      "images/goods_mistgraph_08.jpeg",
+      "images/goods_mistgraph_09.jpeg"
+    ],
+    "thumb": "images/goods_mistgraph_01.jpeg"
+  },
+  {
+    "id": 1790413944089,
+    "name": "線下活動：電影蓮之空「第4彈 現場解說上映會」",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-02",
+    "time": "19:30",
+    "location": "",
+    "description": "🪷#映画蓮ノ空🪷\n\n　　　  　　7月2日(木)\n　第4弾 生コメンタリー付き上映会\n\n楡井希実、野中ここな、菅 叶和の103期生メンバーによるリアルタイムトークはいかがでしたか？\n\nご参加いただいた皆さま誠にありがとうございました！\n\n#映画蓮ノ空 を引き続き何度でもお楽しみください！",
+    "googleMap": "",
+    "categories": [
+      5
+    ],
+    "gallery": [
+      "images/Film_commentary_0702_01.jpg"
+    ],
+    "thumb": "images/Film_commentary_0702_01.jpg"
+  },
+  {
+    "id": 1790415299159,
+    "name": "CD發售：103rd Graduation Album「～Full Bloom Memories～ Hinoshita Kaho【初回限定盤】」",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "time": "",
+    "location": "",
+    "description": "🪷CD情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ\n103rd Graduation Album\n「～Full Bloom Memories～ Hinoshita Kaho」\n本日発売です💿🎉\n\nぜひ手にとってみてください✨\n\n⏬商品情報\n【初回限定盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6066\n【通常盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6067\n\n⏬試聴動画\nhttps://youtu.be/HXt88EFzYo8\n\n⏬特典情報\nhttps://lovelive-anime.jp/news/01_6017.html\n\n⏬各種配信サイトはこちら\nhttps://lnk.to/LACA-19176d\n\nアーティスト\n日野下花帆(CV.楡井希実)\n\n発売日\n2026年7月1日（水）\n\n価格\nLACA-39176~7/￥5,500（10%税込）/￥5,000 (税抜)\n\nCD\n[Disc.1]\n\n01. 水彩世界\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：栗原 暁（Jazzin’park）、前田 佑\n編曲：前田 佑\n弦編曲：門脇大輔\n\n02. 謳歌爛漫\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：小野寺祐輔 (Arte Refact)\n編曲：河合泰志 (Arte Refact)\n\n03. Reflection in the mirror\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：桃宇アリサ、めんま\n編曲：めんま\n弦編曲：真部 裕\n\n04. Holiday∞Holiday\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：桃宇アリサ、めんま\n編曲：めんま\n\n05. 眩耀夜行\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：小野寺祐輔（Arte Refact）\n編曲：脇 眞富（Arte Refact）\n\n06. 素顔のピクセル\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：桃宇アリサ、めんま\n編曲：めんま\n\n07. 千変万華\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：大熊淳生（Arte Refact）\n弦編曲：真部 裕\n\n08. Special Thanks\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：めんま\n\n[Disc.2]\n\n01.アオクハルカ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：鶴﨑輝一\n弦編曲：菊谷知樹\n\n02.月夜見海月\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平\n\n03.ハナムスビ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：川崎智哉\n\n04.ユメワズライ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平\n\n05.Celebration!\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：塚田耕平\n編曲：CHOKKAKU\n\n06.フルーツパンチ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：本田正樹（Dream Monster）\n\n07.乙女詞華集\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：大熊淳生（Arte Refact）\n\n08.不思議と君とライブラリー\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平\n\n09. 今、過去、未来の三原色\n歌：日野下花帆(CV.楡井希実)\n作詞：小松ナノハ\n作曲：綺羅クリア\n編曲：Seiji Hotta\n\n10. アイドゥーミー！\n歌：日野下花帆(CV.楡井希実)\n作詞：綺羅クリア\n作曲・編曲：サクマリョウ\n\n11. Dream Believers（SAKURA Ver.）\n歌：日野下花帆(CV.楡井希実)\n作詞：畑 亜貴\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n12.プレイリスト/「あの日」\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平、めんま\n\nBlu-ray\n※初回限定盤のみ同梱\n・103rd Archive「Hinoshita Kaho」\n\n●初回生産特典\n・日野下花帆 メンバーカード（全1種）\n\n■特典内容\n≪①②③【初回限定盤】連動購入特典≫\nオリジナルCD収納ボックス\n※【初回限定盤】をご購入頂いた方が対象となります。\n※収納ボックスは、【初回限定盤】3枚を収納可能なサイズです。\n※特典はなくなり次第終了となります。予めご了承ください。\n※一部実施のない店舗もございます。\n\n≪①②③【初回限定盤】/【通常盤】店舗オリジナル特典≫\n\n■対象店舗：特典内容\nA-on STORE / A-on STORE Powered by A!SMART：2L判ブロマイド\nアニメイト：A4クリアファイル＆ミニフォト\nAmazon.co.jp：メガジャケ\nあみあみ：2L判イラストカード\nゲーマーズ：\n【初回限定盤】A4クリアファイル＋アクリルキーホルダー＋L判ブロマイド\n【通常盤】 A4クリアファイル＋L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター(76mm)\nタワーレコード（一部店舗を除く）：L判ブロマイド\nTSUTAYA RECORDS（一部店舗除く）：ましかくブロマイド\n楽天ブックス：A4クリアファイル\n\n※店舗オリジナル特典は、ご購入いただいた商品のジャケットイラストを使用した絵柄となります。\n※ジャケットイラストは【初回限定盤】【通常盤】で共通となります。\n\n※特典はなくなり次第終了となります。\n※一部実施のない店舗もございます。\n※特典有無についての詳細は各店舗様へご確認をお願いいたします。\n※特典対象外設定の商品がある場合がございます。特典付き商品であることをご確認の上、ご購入ください。\n※一部アイテムを変更させていただく場合がございます。予めご了承ください。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_103rdalbumkaho_01.jpg",
+      "images/cd_10rdalbum_01.jpeg",
+      "images/cd_10rdalbum_02.jpeg",
+      "images/cd_10rdalbum_03.jpeg",
+      "images/cd_10rdalbum_04.jpeg",
+      "images/cd_10rdalbum_05.jpeg",
+      "images/cd_103rdalbumkaho_03.jpg",
+      "images/cd_103rdalbumkaho_04.jpeg",
+      "images/cd_103rdalbumkaho_05.jpeg",
+      "images/cd_103rdalbumkaho_06.jpeg",
+      "images/cd_103rdalbumkaho_07.jpeg",
+      "images/cd_103rdalbumkaho_08.jpeg",
+      "images/cd_103rdalbumkaho_09.jpeg",
+      "images/cd_103rdalbumkaho_10.jpeg",
+      "images/cd_103rdalbumkaho_11.jpeg",
+      "images/cd_103rdalbumkaho_12.jpeg",
+      "images/cd_103rdalbumkaho_13.jpeg",
+      "images/cd_103rdalbumkaho_14.jpeg",
+      "images/cd_103rdalbumkaho_15.jpeg"
+    ],
+    "thumb": "images/cd_103rdalbumkaho_01.jpg"
+  },
+  {
+    "id": 1790415430951,
+    "name": "CD發售：103rd Graduation Album「～Full Bloom Memories～ Hinoshita Kaho【通常盤】」",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "time": "",
+    "location": "",
+    "description": "🪷CD情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ\n103rd Graduation Album\n「～Full Bloom Memories～ Hinoshita Kaho」\n本日発売です💿🎉\n\nぜひ手にとってみてください✨\n\n⏬商品情報\n【初回限定盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6066\n【通常盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6067\n\n⏬試聴動画\nhttps://youtu.be/HXt88EFzYo8\n\n⏬特典情報\nhttps://lovelive-anime.jp/news/01_6017.html\n\n⏬各種配信サイトはこちら\nhttps://lnk.to/LACA-19176d\n\nアーティスト\n日野下花帆(CV.楡井希実)\n\n発売日\n2026年7月1日（水）\n\n価格\nLACA-19176~7 /￥3,850（10%税込）/￥3,500 (税抜)\n\nCD\n[Disc.1]\n\n01. 水彩世界\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：栗原 暁（Jazzin’park）、前田 佑\n編曲：前田 佑\n弦編曲：門脇大輔\n\n02. 謳歌爛漫\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：小野寺祐輔 (Arte Refact)\n編曲：河合泰志 (Arte Refact)\n\n03. Reflection in the mirror\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：桃宇アリサ、めんま\n編曲：めんま\n弦編曲：真部 裕\n\n04. Holiday∞Holiday\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：桃宇アリサ、めんま\n編曲：めんま\n\n05. 眩耀夜行\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：小野寺祐輔（Arte Refact）\n編曲：脇 眞富（Arte Refact）\n\n06. 素顔のピクセル\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：桃宇アリサ、めんま\n編曲：めんま\n\n07. 千変万華\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：大熊淳生（Arte Refact）\n弦編曲：真部 裕\n\n08. Special Thanks\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：めんま\n\n[Disc.2]\n\n01.アオクハルカ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：鶴﨑輝一\n弦編曲：菊谷知樹\n\n02.月夜見海月\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平\n\n03.ハナムスビ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：川崎智哉\n\n04.ユメワズライ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平\n\n05.Celebration!\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲：塚田耕平\n編曲：CHOKKAKU\n\n06.フルーツパンチ\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：本田正樹（Dream Monster）\n\n07.乙女詞華集\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：大熊淳生（Arte Refact）\n\n08.不思議と君とライブラリー\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平\n\n09. 今、過去、未来の三原色\n歌：日野下花帆(CV.楡井希実)\n作詞：小松ナノハ\n作曲：綺羅クリア\n編曲：Seiji Hotta\n\n10. アイドゥーミー！\n歌：日野下花帆(CV.楡井希実)\n作詞：綺羅クリア\n作曲・編曲：サクマリョウ\n\n11. Dream Believers（SAKURA Ver.）\n歌：日野下花帆(CV.楡井希実)\n作詞：畑 亜貴\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n12.プレイリスト/「あの日」\n歌：日野下花帆(CV.楡井希実)\n作詞：ケリー\n作曲・編曲：塚田耕平、めんま\n\n●初回生産特典\n・日野下花帆 メンバーカード（全1種）\n\n≪①②③【初回限定盤】/【通常盤】店舗オリジナル特典≫\n\n■対象店舗：特典内容\nA-on STORE / A-on STORE Powered by A!SMART：2L判ブロマイド\nアニメイト：A4クリアファイル＆ミニフォト\nAmazon.co.jp：メガジャケ\nあみあみ：2L判イラストカード\nゲーマーズ：\n【初回限定盤】A4クリアファイル＋アクリルキーホルダー＋L判ブロマイド\n【通常盤】 A4クリアファイル＋L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター(76mm)\nタワーレコード（一部店舗を除く）：L判ブロマイド\nTSUTAYA RECORDS（一部店舗除く）：ましかくブロマイド\n楽天ブックス：A4クリアファイル\n\n※店舗オリジナル特典は、ご購入いただいた商品のジャケットイラストを使用した絵柄となります。\n※ジャケットイラストは【初回限定盤】【通常盤】で共通となります。\n\n※特典はなくなり次第終了となります。\n※一部実施のない店舗もございます。\n※特典有無についての詳細は各店舗様へご確認をお願いいたします。\n※特典対象外設定の商品がある場合がございます。特典付き商品であることをご確認の上、ご購入ください。\n※一部アイテムを変更させていただく場合がございます。予めご了承ください。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_103rdalbumkaho_02.jpg",
+      "images/cd_103rdalbumkaho_03.jpg",
+      "images/cd_103rdalbumkaho_04.jpeg",
+      "images/cd_103rdalbumkaho_05.jpeg",
+      "images/cd_103rdalbumkaho_06.jpeg",
+      "images/cd_103rdalbumkaho_07.jpeg",
+      "images/cd_103rdalbumkaho_08.jpeg",
+      "images/cd_103rdalbumkaho_09.jpeg",
+      "images/cd_103rdalbumkaho_11.jpeg",
+      "images/cd_103rdalbumkaho_12.jpeg",
+      "images/cd_103rdalbumkaho_13.jpeg",
+      "images/cd_103rdalbumkaho_14.jpeg",
+      "images/cd_103rdalbumkaho_15.jpeg"
+    ],
+    "thumb": "images/cd_103rdalbumkaho_02.jpg"
+  },
+  {
+    "id": 1790416392574,
+    "name": "CD發售：103rd Graduation Album「～Full Bloom Memories～ Murano Sayaka【初回限定盤】」",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "time": "",
+    "location": "",
+    "description": "🪷CD情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ\n103rd Graduation Album\n「～Full Bloom Memories～ Murano Sayaka」\n本日発売です💿🎉\n\nぜひ手にとってみてください✨\n\n⏬商品情報\n【初回限定盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6068\n【通常盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6069\n\n⏬試聴動画\nhttps://youtu.be/HXt88EFzYo8\n\n⏬特典情報\nhttps://lovelive-anime.jp/news/01_6017.html\n\n⏬各種配信サイトはこちら\nhttps://lnk.to/LACA-19178d\n\nアーティスト\n村野さやか(CV.野中ここな)\n\n発売日\n2026年7月1日（水）\n\n価格\nLACA-39178~9/￥5,500（10%税込）/￥5,000 (税抜)\n\nCD\n[Disc.1]\n\n01. AWOKE\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n02. スケイプゴート\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Hiroki Sagawa (Relic Lyric, inc.) 、武田城以\n編曲：武田城以\n\n03. Sparkly Spot\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n04. Tragic Drops\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n05. Mirage Voyage\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n06. Take It Over\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：LiCu\n\n07. KNOT\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n08. 青とシャボン\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：佐藤厚仁\n\n[Disc.2]\n\nレディバグ\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：渡辺拓也\n編曲：鈴木雅也\n\n02.Proof\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：法戸祐樹\n編曲：佐藤厚仁（Dream Monster）\n\n03.バアドケージ\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：伊藤聡汰\n編曲：平田祥一郎\n\n04.COMPASS\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：四市田雲豹(SUPA LOVE)\n編曲：鈴木雅也\n\n05.アンペア\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n06.アイマイメーデー\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：山下僚海（SUPA LOVE）\n編曲：高橋修平（SUPA LOVE）\n\n07.太陽であれ！\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：鈴木裕明（SUPA LOVE）\n\n08.アイシイ\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Michael Super Lassie\n編曲：佐藤厚仁\n\n09.はじまりの羽音\n歌：村野さやか(CV.野中ここな)\n作詞：PA-NON\n作曲・編曲：渡辺未来\n\n10.アイドゥーミー！\n歌：村野さやか(CV.野中ここな)\n作詞：綺羅クリア\n作曲・編曲：サクマリョウ\n\n11.Dream Believers（SAKURA Ver.）\n歌：村野さやか(CV.野中ここな)\n作詞：畑 亜貴\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n12.Bless you!\n歌：村野さやか（CV. 野中ここな）\n作詞：TATSUNE\n作曲・編曲：渡辺未来\n\nBlu-ray\n※初回限定盤のみ同梱\n・103rd Archive「Murano Sayaka」\n\n●初回生産特典\n・村野さやか メンバーカード（全1種）\n\n■特典内容\n≪①②③【初回限定盤】連動購入特典≫\nオリジナルCD収納ボックス\n※【初回限定盤】をご購入頂いた方が対象となります。\n※収納ボックスは、【初回限定盤】3枚を収納可能なサイズです。\n※特典はなくなり次第終了となります。予めご了承ください。\n※一部実施のない店舗もございます。\n\n≪①②③【初回限定盤】/【通常盤】店舗オリジナル特典≫\n\n■対象店舗：特典内容\nA-on STORE / A-on STORE Powered by A!SMART：2L判ブロマイド\nアニメイト：A4クリアファイル＆ミニフォト\nAmazon.co.jp：メガジャケ\nあみあみ：2L判イラストカード\nゲーマーズ：\n【初回限定盤】A4クリアファイル＋アクリルキーホルダー＋L判ブロマイド\n【通常盤】 A4クリアファイル＋L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター(76mm)\nタワーレコード（一部店舗を除く）：L判ブロマイド\nTSUTAYA RECORDS（一部店舗除く）：ましかくブロマイド\n楽天ブックス：A4クリアファイル\n\n※店舗オリジナル特典は、ご購入いただいた商品のジャケットイラストを使用した絵柄となります。\n※ジャケットイラストは【初回限定盤】【通常盤】で共通となります。\n\n※特典はなくなり次第終了となります。\n※一部実施のない店舗もございます。\n※特典有無についての詳細は各店舗様へご確認をお願いいたします。\n※特典対象外設定の商品がある場合がございます。特典付き商品であることをご確認の上、ご購入ください。\n※一部アイテムを変更させていただく場合がございます。予めご了承ください。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_103rdalbumsayaka_01.jpg",
+      "images/cd_10rdalbum_01.jpeg",
+      "images/cd_10rdalbum_02.jpeg",
+      "images/cd_10rdalbum_03.jpeg",
+      "images/cd_10rdalbum_04.jpeg",
+      "images/cd_10rdalbum_05.jpeg",
+      "images/cd_103rdalbumsayaka_03.jpeg",
+      "images/cd_103rdalbumsayaka_04.jpeg",
+      "images/cd_103rdalbumsayaka_05.jpeg",
+      "images/cd_103rdalbumsayaka_06.jpeg",
+      "images/cd_103rdalbumsayaka_07.jpeg",
+      "images/cd_103rdalbumsayaka_08.jpeg",
+      "images/cd_103rdalbumsayaka_09.jpeg",
+      "images/cd_103rdalbumkaho_10.jpeg",
+      "images/cd_103rdalbumsayaka_10.jpeg",
+      "images/cd_103rdalbumsayaka_11.jpeg",
+      "images/cd_103rdalbumsayaka_12.jpeg",
+      "images/cd_103rdalbumsayaka_13.jpeg",
+      "images/cd_103rdalbumsayaka_14.jpeg"
+    ],
+    "thumb": "images/cd_103rdalbumsayaka_01.jpg"
+  },
+  {
+    "id": 1790416674334,
+    "name": "CD發售：103rd Graduation Album「～Full Bloom Memories～ Murano Sayaka【通常盤】」",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "time": "",
+    "location": "",
+    "description": "🪷CD情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ\n103rd Graduation Album\n「～Full Bloom Memories～ Murano Sayaka」\n本日発売です💿🎉\n\nぜひ手にとってみてください✨\n\n⏬商品情報\n【初回限定盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6068\n【通常盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6069\n\n⏬試聴動画\nhttps://youtu.be/HXt88EFzYo8\n\n⏬特典情報\nhttps://lovelive-anime.jp/news/01_6017.html\n\n⏬各種配信サイトはこちら\nhttps://lnk.to/LACA-19178d\n\nアーティスト\n村野さやか(CV.野中ここな)\n\n発売日\n2026年7月1日（水）\n\n価格\nLACA-19178~9 /￥3,850（10%税込）/￥3,500 (税抜)\n\nCD\n[Disc.1]\n\n01. AWOKE\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n02. スケイプゴート\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Hiroki Sagawa (Relic Lyric, inc.) 、武田城以\n編曲：武田城以\n\n03. Sparkly Spot\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n04. Tragic Drops\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n05. Mirage Voyage\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n06. Take It Over\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：LiCu\n\n07. KNOT\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n08. 青とシャボン\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：佐藤厚仁\n\n[Disc.2]\n\nレディバグ\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：渡辺拓也\n編曲：鈴木雅也\n\n02.Proof\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：法戸祐樹\n編曲：佐藤厚仁（Dream Monster）\n\n03.バアドケージ\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：伊藤聡汰\n編曲：平田祥一郎\n\n04.COMPASS\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：四市田雲豹(SUPA LOVE)\n編曲：鈴木雅也\n\n05.アンペア\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Kanata Okajima、Hayato Yamamoto\n編曲：Hayato Yamamoto\n\n06.アイマイメーデー\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：山下僚海（SUPA LOVE）\n編曲：高橋修平（SUPA LOVE）\n\n07.太陽であれ！\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲・編曲：鈴木裕明（SUPA LOVE）\n\n08.アイシイ\n歌：村野さやか(CV.野中ここな)\n作詞：TATSUNE\n作曲：Michael Super Lassie\n編曲：佐藤厚仁\n\n09.はじまりの羽音\n歌：村野さやか(CV.野中ここな)\n作詞：PA-NON\n作曲・編曲：渡辺未来\n\n10.アイドゥーミー！\n歌：村野さやか(CV.野中ここな)\n作詞：綺羅クリア\n作曲・編曲：サクマリョウ\n\n11.Dream Believers（SAKURA Ver.）\n歌：村野さやか(CV.野中ここな)\n作詞：畑 亜貴\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n12.Bless you!\n歌：村野さやか（CV. 野中ここな）\n作詞：TATSUNE\n作曲・編曲：渡辺未来\n\n●初回生産特典\n・村野さやか メンバーカード（全1種）\n\n■対象店舗：特典内容\nA-on STORE / A-on STORE Powered by A!SMART：2L判ブロマイド\nアニメイト：A4クリアファイル＆ミニフォト\nAmazon.co.jp：メガジャケ\nあみあみ：2L判イラストカード\nゲーマーズ：\n【初回限定盤】A4クリアファイル＋アクリルキーホルダー＋L判ブロマイド\n【通常盤】 A4クリアファイル＋L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター(76mm)\nタワーレコード（一部店舗を除く）：L判ブロマイド\nTSUTAYA RECORDS（一部店舗除く）：ましかくブロマイド\n楽天ブックス：A4クリアファイル\n\n※店舗オリジナル特典は、ご購入いただいた商品のジャケットイラストを使用した絵柄となります。\n※ジャケットイラストは【初回限定盤】【通常盤】で共通となります。\n\n※特典はなくなり次第終了となります。\n※一部実施のない店舗もございます。\n※特典有無についての詳細は各店舗様へご確認をお願いいたします。\n※特典対象外設定の商品がある場合がございます。特典付き商品であることをご確認の上、ご購入ください。\n※一部アイテムを変更させていただく場合がございます。予めご了承ください。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_103rdalbumsayaka_02.jpeg",
+      "images/cd_103rdalbumsayaka_03.jpeg",
+      "images/cd_103rdalbumsayaka_04.jpeg",
+      "images/cd_103rdalbumsayaka_05.jpeg",
+      "images/cd_103rdalbumsayaka_06.jpeg",
+      "images/cd_103rdalbumsayaka_07.jpeg",
+      "images/cd_103rdalbumsayaka_08.jpeg",
+      "images/cd_103rdalbumsayaka_09.jpeg",
+      "images/cd_103rdalbumsayaka_10.jpeg",
+      "images/cd_103rdalbumsayaka_11.jpeg",
+      "images/cd_103rdalbumsayaka_12.jpeg",
+      "images/cd_103rdalbumsayaka_13.jpeg",
+      "images/cd_103rdalbumsayaka_14.jpeg"
+    ],
+    "thumb": "images/cd_103rdalbumsayaka_02.jpeg"
+  },
+  {
+    "id": 1790424690124,
+    "name": "CD發售：103rd Graduation Album「～Full Bloom Memories～ Osawa Rurino【初回限定盤】」",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "time": "",
+    "location": "",
+    "description": "🪷CD情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ\n103rd Graduation Album\n「～Full Bloom Memories～ Osawa Rurino」\n本日発売です💿🎉\n\nぜひ手にとってみてください✨\n\n⏬商品情報\n【初回限定盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6070\n【通常盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6071\n\n⏬試聴動画\nhttps://youtu.be/HXt88EFzYo8\n\n⏬特典情報\nhttps://lovelive-anime.jp/news/01_6017.html\n\n⏬各種配信サイトはこちら\nhttps://lnk.to/LACA-19180d\n\nアーティスト\n大沢瑠璃乃(CV.菅 叶和)\n\n発売日\n2026年7月1日（水）\n\n価格\nLACA-39180~1/￥5,500（10%税込）/￥5,000 (税抜)\n\nCD\n[Disc.1]\n\n01. ド！ド！ド！\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：山本玲史\n\n02. ハクチューアラモード\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞・作曲・編曲：ナユタン星人\n\n03. ココン東西\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Ryu\n\n04. アイデンティティ\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：大熊淳生（Arte Refact）\n\n05. ノンフィクションヒーローショー\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：要田 健\n\n06. ミルク\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：桃宇アリサ、めんま\n編曲：めんま\n\n07. 以心☆電信\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Kijibato\n\n08. BANG YOU グラビティ\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：山本玲史\n\n[Disc.2]\n\n01.みらくりえーしょん\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：桑原佑介\n編曲：MOSAIC.WAV\n\n02.ファンファーレ！！！\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Kijibato（Dream Monster）\n\n03.ジョーショーキリュー\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：ハム\n\n04.全方位キュン♡\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Junky\n\n05.WAWO!\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：みかんもどき（Dream Monster）\n編曲：ha-j\n\n06.BLAST!!\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：Fi’Ne, Yuqui-lah\n編曲：ハヤシベトモノリ（Plus-Tech Squeeze Box）\n\n07.ニャオシグニャル\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Kijibato（Dream Monster）\n\n08.トモダチになれる場所\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：桑原佑介\n編曲：Capchii、桑原佑介\n\n09.Echoes Beyond\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：EFFY\n\n10.アイドゥーミー！\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：綺羅クリア\n作曲・編曲：サクマリョウ\n\n11.Dream Believers（SAKURA Ver.）\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：畑 亜貴\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n12.ミジンコトランスフォーメーション\n歌：大沢瑠璃乃（CV. 菅 叶和）\n作詞：ろさ\n作曲・編曲：山本玲史\n\nBlu-ray\n※初回限定盤のみ同梱\n・103rd Archive「Osawa Rurino」\n\n●初回生産特典\n・大沢瑠璃乃 メンバーカード（全1種）\n\n■特典内容\n≪①②③【初回限定盤】連動購入特典≫\nオリジナルCD収納ボックス\n※【初回限定盤】をご購入頂いた方が対象となります。\n※収納ボックスは、【初回限定盤】3枚を収納可能なサイズです。\n※特典はなくなり次第終了となります。予めご了承ください。\n※一部実施のない店舗もございます。\n\n≪①②③【初回限定盤】/【通常盤】店舗オリジナル特典≫\n\n■対象店舗：特典内容\nA-on STORE / A-on STORE Powered by A!SMART：2L判ブロマイド\nアニメイト：A4クリアファイル＆ミニフォト\nAmazon.co.jp：メガジャケ\nあみあみ：2L判イラストカード\nゲーマーズ：\n【初回限定盤】A4クリアファイル＋アクリルキーホルダー＋L判ブロマイド\n【通常盤】 A4クリアファイル＋L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター(76mm)\nタワーレコード（一部店舗を除く）：L判ブロマイド\nTSUTAYA RECORDS（一部店舗除く）：ましかくブロマイド\n楽天ブックス：A4クリアファイル\n\n※店舗オリジナル特典は、ご購入いただいた商品のジャケットイラストを使用した絵柄となります。\n※ジャケットイラストは【初回限定盤】【通常盤】で共通となります。\n\n※特典はなくなり次第終了となります。\n※一部実施のない店舗もございます。\n※特典有無についての詳細は各店舗様へご確認をお願いいたします。\n※特典対象外設定の商品がある場合がございます。特典付き商品であることをご確認の上、ご購入ください。\n※一部アイテムを変更させていただく場合がございます。予めご了承ください。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_103rdalbumrurino_01.jpg",
+      "images/cd_10rdalbum_01.jpeg",
+      "images/cd_10rdalbum_02.jpeg",
+      "images/cd_10rdalbum_03.jpeg",
+      "images/cd_10rdalbum_04.jpeg",
+      "images/cd_10rdalbum_05.jpeg",
+      "images/cd_103rdalbumrurino_03.jpeg",
+      "images/cd_103rdalbumrurino_04.jpeg",
+      "images/cd_103rdalbumrurino_05.jpeg",
+      "images/cd_103rdalbumrurino_06.jpeg",
+      "images/cd_103rdalbumrurino_07.jpeg",
+      "images/cd_103rdalbumrurino_08.jpeg",
+      "images/cd_103rdalbumrurino_09.jpeg",
+      "images/cd_103rdalbumkaho_10.jpeg",
+      "images/cd_103rdalbumrurino_10.jpeg",
+      "images/cd_103rdalbumrurino_11.jpeg",
+      "images/cd_103rdalbumrurino_12.jpeg",
+      "images/cd_103rdalbumrurino_13.jpeg",
+      "images/cd_103rdalbumrurino_14.jpeg"
+    ],
+    "thumb": "images/cd_103rdalbumrurino_01.jpg"
+  },
+  {
+    "id": 1790424785156,
+    "name": "CD發售：103rd Graduation Album「～Full Bloom Memories～ Osawa Rurino【通常盤】」",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "time": "",
+    "location": "",
+    "description": "🪷CD情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ\n103rd Graduation Album\n「～Full Bloom Memories～ Osawa Rurino」\n本日発売です💿🎉\n\nぜひ手にとってみてください✨\n\n⏬商品情報\n【初回限定盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6070\n【通常盤】\nhttps://lovelive-anime.jp/hasunosora/music/cd/?p=01_6071\n\n⏬試聴動画\nhttps://youtu.be/HXt88EFzYo8\n\n⏬特典情報\nhttps://lovelive-anime.jp/news/01_6017.html\n\n⏬各種配信サイトはこちら\nhttps://lnk.to/LACA-19180d\n\nアーティスト\n大沢瑠璃乃(CV.菅 叶和)\n\n発売日\n2026年7月1日（水）\n\n価格\nLACA-19180~1 /￥3,850（10%税込）/￥3,500 (税抜)\n\nCD\n[Disc.1]\n\n01. ド！ド！ド！\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：山本玲史\n\n02. ハクチューアラモード\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞・作曲・編曲：ナユタン星人\n\n03. ココン東西\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Ryu\n\n04. アイデンティティ\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：大熊淳生（Arte Refact）\n\n05. ノンフィクションヒーローショー\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：要田 健\n\n06. ミルク\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：桃宇アリサ、めんま\n編曲：めんま\n\n07. 以心☆電信\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Kijibato\n\n08. BANG YOU グラビティ\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：山本玲史\n\n[Disc.2]\n\n01.みらくりえーしょん\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：桑原佑介\n編曲：MOSAIC.WAV\n\n02.ファンファーレ！！！\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Kijibato（Dream Monster）\n\n03.ジョーショーキリュー\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：ハム\n\n04.全方位キュン♡\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Junky\n\n05.WAWO!\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：みかんもどき（Dream Monster）\n編曲：ha-j\n\n06.BLAST!!\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：Fi’Ne, Yuqui-lah\n編曲：ハヤシベトモノリ（Plus-Tech Squeeze Box）\n\n07.ニャオシグニャル\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：Kijibato（Dream Monster）\n\n08.トモダチになれる場所\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲：桑原佑介\n編曲：Capchii、桑原佑介\n\n09.Echoes Beyond\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：ろさ\n作曲・編曲：EFFY\n\n10.アイドゥーミー！\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：綺羅クリア\n作曲・編曲：サクマリョウ\n\n11.Dream Believers（SAKURA Ver.）\n歌：大沢瑠璃乃(CV.菅 叶和)\n作詞：畑 亜貴\n作曲・編曲：渡辺拓也\n弦編曲：渡辺拓也、真部 裕\n\n12.ミジンコトランスフォーメーション\n歌：大沢瑠璃乃（CV. 菅 叶和）\n作詞：ろさ\n作曲・編曲：山本玲史\n\nBlu-ray\n※初回限定盤のみ同梱\n・103rd Archive「Osawa Rurino」\n\n●初回生産特典\n・大沢瑠璃乃 メンバーカード（全1種）\n\n■対象店舗：特典内容\nA-on STORE / A-on STORE Powered by A!SMART：2L判ブロマイド\nアニメイト：A4クリアファイル＆ミニフォト\nAmazon.co.jp：メガジャケ\nあみあみ：2L判イラストカード\nゲーマーズ：\n【初回限定盤】A4クリアファイル＋アクリルキーホルダー＋L判ブロマイド\n【通常盤】 A4クリアファイル＋L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター(76mm)\nタワーレコード（一部店舗を除く）：L判ブロマイド\nTSUTAYA RECORDS（一部店舗除く）：ましかくブロマイド\n楽天ブックス：A4クリアファイル\n\n※店舗オリジナル特典は、ご購入いただいた商品のジャケットイラストを使用した絵柄となります。\n※ジャケットイラストは【初回限定盤】【通常盤】で共通となります。\n\n※特典はなくなり次第終了となります。\n※一部実施のない店舗もございます。\n※特典有無についての詳細は各店舗様へご確認をお願いいたします。\n※特典対象外設定の商品がある場合がございます。特典付き商品であることをご確認の上、ご購入ください。\n※一部アイテムを変更させていただく場合がございます。予めご了承ください。",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_103rdalbumrurino_02.jpeg",
+      "images/cd_103rdalbumrurino_03.jpeg",
+      "images/cd_103rdalbumrurino_04.jpeg",
+      "images/cd_103rdalbumrurino_05.jpeg",
+      "images/cd_103rdalbumrurino_06.jpeg",
+      "images/cd_103rdalbumrurino_07.jpeg",
+      "images/cd_103rdalbumrurino_08.jpeg",
+      "images/cd_103rdalbumrurino_09.jpeg",
+      "images/cd_103rdalbumrurino_10.jpeg",
+      "images/cd_103rdalbumrurino_11.jpeg",
+      "images/cd_103rdalbumrurino_12.jpeg",
+      "images/cd_103rdalbumrurino_13.jpeg",
+      "images/cd_103rdalbumrurino_14.jpeg"
+    ],
+    "thumb": "images/cd_103rdalbumrurino_02.jpeg"
+  },
+  {
+    "id": 1790425650158,
+    "name": "遊戲：「Link！Like！ラブライブ！」結束服務",
+    "startDate": "2026-06-30",
+    "endDate": "2026-06-30",
+    "time": "12:00",
+    "location": "",
+    "description": "🪷Link！Like！ラブライブ！🪷\n\n2026年6月30日(火) 12:00をもちまして、サービスを終了いたしました。\n\n多くのお客様にご愛顧と応援いただきましたことを心より御礼申し上げます。\n\nまた、払戻しに関するお知らせを公式HPに掲載しておりますので、こちらも併せてご確認ください。\nhttps://lovelive-anime.jp/hasunosora/refund/\n\n現在のアプリは、メンテナンス終了後にストアでアップデートいただくことで、オフライン版コレクションアプリとしてご利用可能になります。詳細はオフライン版についてのお知らせをご確認ください。",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_close_01.jpg"
+    ],
+    "thumb": "images/linklike_close_01.jpg"
+  },
+  {
     "id": 1789322101818,
-    "name": "Youtube頻道「ブルパ開催！映画大入り祈願！inせーので！はすのそら！」 #13「蓮ノ三連華3Sトーク➀ 」",
+    "name": "Youtube頻道：「ブルパ開催！映画大入り祈願！inせーので！はすのそら！」 #13「蓮ノ三連華3Sトーク➀ 」",
     "startDate": "2026-06-29",
     "endDate": "2026-06-29",
     "time": "20:00",
@@ -7511,90 +8334,5 @@
       "images/pv_hasunosora_01_14.png"
     ],
     "thumb": "images/pv_hasunosora_01_01.jpg"
-  },
-  {
-    "id": 1790340761450,
-    "name": "Youtube頻道會員限定動畫 #91「生コメンタリー付き上映会」",
-    "startDate": "2026-09-25",
-    "endDate": "2026-09-25",
-    "time": "20:30",
-    "location": "",
-    "description": "🪷YouTubeメンバーシップ情報🪷\n\nメンバーシップ限定動画##91 を公開しました🌟\n\n【メンバーシップ限定動画】#91\n生コメンタリー付き上映会\n\n⏬視聴はこちら\nhttps://youtu.be/lg4I6UgpDxI\n\n⏬メンバーシップのご登録はこちら\nhttps://youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/join\n\nぜひご覧ください👀\n※ゴールドコースに登録されている方のみ視聴可能となっております。",
-    "googleMap": "",
-    "categories": [
-      1
-    ],
-    "gallery": [
-      "images/sehasu_memship_91_01.jpg"
-    ],
-    "thumb": "images/sehasu_memship_91_01.jpg"
-  },
-  {
-    "id": 1790341621833,
-    "name": "抽選開始：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
-    "startDate": "2026-09-25",
-    "endDate": "2026-09-25",
-    "time": "12:00",
-    "location": "",
-    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
-    "googleMap": "",
-    "categories": [
-      2
-    ],
-    "gallery": [
-      "images/hasunosoralogo.png"
-    ],
-    "thumb": "images/hasunosoralogo.png"
-  },
-  {
-    "id": 1790341666849,
-    "name": "抽選截止：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
-    "startDate": "2026-11-08",
-    "endDate": "2026-11-08",
-    "time": "23:59",
-    "location": "",
-    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
-    "googleMap": "",
-    "categories": [
-      2
-    ],
-    "gallery": [
-      "images/hasunosoralogo.png"
-    ],
-    "thumb": "images/hasunosoralogo.png"
-  },
-  {
-    "id": 1790341712089,
-    "name": "結果發表&入金：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
-    "startDate": "2026-11-14",
-    "endDate": "2026-11-14",
-    "time": "13:00",
-    "location": "",
-    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
-    "googleMap": "",
-    "categories": [
-      2
-    ],
-    "gallery": [
-      "images/hasunosoralogo.png"
-    ],
-    "thumb": "images/hasunosoralogo.png"
-  },
-  {
-    "id": 1790341740673,
-    "name": "入金截止：蓮之空 Link Live Dream ～106期新入生入部記念公演～",
-    "startDate": "2026-11-17",
-    "endDate": "2026-11-17",
-    "time": "21:00",
-    "location": "",
-    "description": "【公演名】\nラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～106期新入生入部記念公演～\n\n【日程】\n2027年1月22日(金) 16:00開場／17:00開演\n\n【会場】\n東京・日本武道館\n\n【出演】\n蓮ノ空女学院スクールアイドルクラブ\n楡井希実（日野下花帆役）、野中ここな（村野さやか役）、佐々木琴子（夕霧綴理役）、菅 叶和（大沢瑠璃乃役）、月音こな（藤島 慈役）、櫻井陽菜（百生吟子役）、葉山風花（徒町小鈴役）、来栖りん（安養寺姫芽役）、三宅美羽（セラス 柳田 リリエンフェルト役）、進藤あまね（桂城 泉役）\n\n星宮じゅりあ（錦上マイカ役）、朝陽花菜（令沢 葵役）、湯浅かなえ（紫輪みおん役）\n\n【チケット料金】\n全席指定：13,000円（税込）\nU-20割引チケット：6,500円（税込）\n\n＜最速先行抽選＞\n\n----------\n■受付URL：https://eplus.jp/hasunosoralldream106/\n■受付期間：2026年9月25日（金）12:00～11月8日（日）23:59\n■当落発表：2026年11月14日（土）13:00～\n■入金期間：2026年11月14日（土）13:00～11月17日（火）21:00\n※枚数制限：お一人様1公演につき、各公演それぞれに2枚までお申込み可能（複数公演申込可能）\n----------",
-    "googleMap": "",
-    "categories": [
-      2
-    ],
-    "gallery": [
-      "images/hasunosoralogo.png"
-    ],
-    "thumb": "images/hasunosoralogo.png"
   }
 ]
