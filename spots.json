@@ -5102,5 +5102,27 @@
       "images/hasu_kaburaki_01.jpg"
     ],
     "thumb": "images/hasu_kaburaki_01.jpg"
+  },
+  {
+    "id": 1790494985483,
+    "name": "EST渋谷東口會館 渋谷保齡球",
+    "lat": 35.660026,
+    "lng": 139.702803,
+    "address": "東京都渋谷区渋谷１丁目１４−１４ EST渋谷東口会館 地下１階",
+    "hours": "11:00～17:00",
+    "holiday": "-",
+    "phone": "+81334094721",
+    "cost": "",
+    "description": "\"預備!蓮之空!Plus\" #11 取景地\nyoutu.be/PXb8GiCSaCE",
+    "googleMap": "https://maps.app.goo.gl/esi7vv4ig5nqXvS59",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/hasu_shibuyabowling_01.webp",
+      "images/sehasu_plus_11_02.png",
+      "images/sehasu_plus_11_03.png"
+    ],
+    "thumb": "images/hasu_shibuyabowling_01.webp"
   }
 ]
