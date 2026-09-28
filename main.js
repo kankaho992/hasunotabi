@@ -711,7 +711,7 @@ function renderSpots() {
             return cat ? `<span class="tag" style="background-color: ${cat.colorVar}">${cat.name}</span>` : '';
         }).join('');
         item.innerHTML = `
-            ${spot.thumb ? `<img src="${imgSrc(spot.thumb)}" alt="thumb">` : `<div style="width:80px;height:80px;margin-right:15px;background:#eee;"></div>`}
+            ${spot.thumb ? `<img src="${imgSrc(spot.thumb)}" alt="thumb" loading="lazy">` : `<div style="width:80px;height:80px;margin-right:15px;background:#eee;"></div>`}
             <div class="info">
                 <div class="title">${spot.name}</div>
                 <div class="tags">${tagsHtml}</div>
@@ -797,7 +797,7 @@ function renderEvents() {
             return `<span class="tag" style="background-color: ${cat ? cat.colorVar : '#ccc'}">${cat ? cat.name : ''}</span>`;
         }).join('');
         item.innerHTML = `
-            ${event.thumb ? `<img src="${imgSrc(event.thumb)}">` : `<div style="width:80px;height:80px;margin-right:15px;background:#eee;"></div>`}
+            ${event.thumb ? `<img src="${imgSrc(event.thumb)}" loading="lazy">` : `<div style="width:80px;height:80px;margin-right:15px;background:#eee;"></div>`}
             <div class="info">
                 <div class="title">${event.name}</div>
                 <div style="font-size:12px; color:#666; margin-bottom:5px;">${dateStr}</div>
@@ -870,7 +870,7 @@ function renderEventsForCalendar() {
             return `<span class="tag" style="background-color: ${cat ? cat.colorVar : '#ccc'}">${cat ? cat.name : ''}</span>`;
         }).join('');
         item.innerHTML = `
-            ${event.thumb ? `<img src="${imgSrc(event.thumb)}" alt="thumb">` : `<div style="width:60px;height:60px;margin-right:10px;background:#eee;border-radius:4px;"></div>`}
+            ${event.thumb ? `<img src="${imgSrc(event.thumb)}" alt="thumb" loading="lazy">` : `<div style="width:60px;height:60px;margin-right:10px;background:#eee;border-radius:4px;"></div>`}
             <div class="info">
                 <div class="title" style="font-size:14px;">${event.name}</div>
                 <div style="font-size:12px; color:#666; margin-bottom:5px;">${dateStr}</div>
@@ -968,7 +968,7 @@ function renderEventList(eventsToRender) {
             return `<span class="tag" style="background-color: ${cat ? cat.colorVar : '#ccc'}">${cat ? cat.name : ''}</span>`;
         }).join('');
         item.innerHTML = `
-            ${event.thumb ? `<img src="${imgSrc(event.thumb)}">` : `<div style="width:80px;height:80px;margin-right:15px;background:#eee;"></div>`}
+            ${event.thumb ? `<img src="${imgSrc(event.thumb)}" loading="lazy">` : `<div style="width:80px;height:80px;margin-right:15px;background:#eee;"></div>`}
             <div class="info">
                 <div class="title">${event.name}</div>
                 <div style="font-size:12px; color:#666; margin-bottom:5px;">${dateStr}</div>
