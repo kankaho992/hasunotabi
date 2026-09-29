@@ -8347,7 +8347,7 @@
   },
   {
     "id": 1788094014773,
-    "name": "Fes×LIVE: 『2023年4月度 Fes×LIVE』",
+    "name": "Fes×LIVE『2023年4月度 Fes×LIVE』",
     "startDate": "2023-05-01",
     "endDate": "2023-05-01",
     "time": "19:00",
@@ -8390,7 +8390,7 @@
   },
   {
     "id": 1788093735653,
-    "name": "Fes×LIVE: 『103期 新入生加入記念ライブ』 (103期新入生加入記念Live)",
+    "name": "Fes×LIVE『103期 新入生加入記念ライブ』 (103期新入生加入記念Live)",
     "startDate": "2023-04-16",
     "endDate": "2023-04-16",
     "time": "19:00",
@@ -8528,5 +8528,37 @@
       "images/pv_hasunosora_01_14.png"
     ],
     "thumb": "images/pv_hasunosora_01_01.jpg"
+  },
+  {
+    "id": 1790703980473,
+    "name": "Youtube頻道 蓮之空生放送「～ようこそ106期 新キャストお披露目！ 　TVアニメ新情報発表会！～」",
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "time": "20:00",
+    "location": "",
+    "description": "✨106期新体制 初の生放送！✨\n\n🪷#蓮ノ空生放送🪷\n「～ようこそ106期 新キャストお披露目！\n　TVアニメ新情報発表会！～」配信決定！🎉\n\n106期新体制でお届けする生放送にて、106期生新キャストをお披露目！\nさらに、2027年1月より放送開始となるTVアニメの最新情報も公開予定！\n\n🕗生放送の日時\n10月18日（日）20:00～\n\n📩番組へのおたよりも大募集！\nおたよりの一部は番組内で紹介させていただきます！\nhttps://forms.gle/Uh4N55twfoGJM6v28",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/namahoso_202610_01.jpg"
+    ],
+    "thumb": "images/namahoso_202610_01.jpg"
+  },
+  {
+    "id": 1790704143056,
+    "name": "With×MEETS直播 2023-04-17「新入生紹介配信」",
+    "startDate": "2023-04-17",
+    "endDate": "2023-04-17",
+    "time": "20:30",
+    "location": "",
+    "description": "蓮ノ空女学院スクールアイドルクラブに\n2人の新入生が加入いたしました。\n2人の紹介をしつつ、先日行われたFes×LIVEについての\nお話もさせていただきます。\nリンクラアプリ初配信。",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [],
+    "thumb": null
   }
 ]
