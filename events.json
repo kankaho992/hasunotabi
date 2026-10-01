@@ -8553,7 +8553,7 @@
     "endDate": "2023-04-17",
     "time": "20:30",
     "location": "",
-    "description": "蓮ノ空女学院スクールアイドルクラブに\n2人の新入生が加入いたしました。\n2人の紹介をしつつ、先日行われたFes×LIVEについての\nお話もさせていただきます。\nリンクラアプリ初配信。",
+    "description": "出演：\n日野下花帆・村野さやか・乙宗 梢・夕霧綴理\n\n內容概要：\n蓮ノ空女学院スクールアイドルクラブに\n2人の新入生が加入いたしました。\n2人の紹介をしつつ、先日行われたFes×LIVEについての\nお話もさせていただきます。\nリンクラアプリ初配信。",
     "googleMap": "",
     "categories": [
       3
@@ -8570,14 +8570,32 @@
     "endDate": "2023-04-15",
     "time": "19:00",
     "location": "",
-    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 4月 第1話「花咲きたい！」PART1 - PART5 (想要像花一樣盛開！)\n\n劇情概要：\n花咲く高校生活を夢見る花帆。入学した蓮ノ空女学院は思い描いていた環境とはほど遠かったが、スクールアイドルクラブの梢と出会い……。\n\n劇情關聯卡圖：\n第1話PART2 - ［Grace Phrase］乙宗梢 特訓後\n第1話PART2 - ［Vivid Phrase］夕霧綴理 特訓後\n第1話PART4 - ［Grace Phrase］乙宗梢 特訓前\n第1話PART5 - ［水彩世界］日野下花帆 特訓後\n\n劇情關聯卡池：\n「2023 SPRING LIMITED COLLECTION vol.1」\n\n劇情時間線：\n推測為入學到2023年4月16日以前一周",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 4月 第1話「花咲きたい！」PART1 - PART5 (想要像花一樣盛開！)\n\n劇情概要：\n花咲く高校生活を夢見る花帆。入学した蓮ノ空女学院は思い描いていた環境とはほど遠かったが、スクールアイドルクラブの梢と出会い……。\n\n劇情關聯卡圖：\n第1話PART2 - ［Grace Phrase］乙宗梢 特訓後\n第1話PART2 - ［Vivid Phrase］夕霧綴理 特訓後\n第1話PART4 - ［Grace Phrase］乙宗梢 特訓前\n第1話PART5 - ［水彩世界］日野下花帆 特訓後\n\n劇情關聯卡池：\n「2023 SPRING LIMITED COLLECTION vol.1」\n\n劇情時間線：\n推測為入學(可能是2023年4月3日)到2023年4月13日之間",
     "googleMap": "",
     "categories": [
       3
     ],
     "gallery": [
-      "images/linklike_story_103_01_01.jpg"
+      "images/linklike_story_103_01_01.jpg",
+      "images/linklike_story_103_01_05.jpg"
     ],
     "thumb": "images/linklike_story_103_01_01.jpg"
+  },
+  {
+    "id": 1790878322274,
+    "name": "With×MEETS直播 2023-04-13「4/16(日)開催 『103期 新入生入部記念ライブ』のお知らせ！」",
+    "startDate": "2023-04-13",
+    "endDate": "2023-04-13",
+    "time": "20:30",
+    "location": "",
+    "description": "出演：\n日野下花帆・村野さやか・乙宗 梢・夕霧綴理\n\n內容概要：\n2023年4月16日(日)19時に開催する『103期 新入生入部記念ライブ』についてメンバーからお知らせします✨",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_withmeets_20230413_01.jpg"
+    ],
+    "thumb": "images/linklike_withmeets_20230413_01.jpg"
   }
 ]
