@@ -1051,3 +1051,21 @@ function jumpCalendarToEvent(event) {
         if (calEl) calEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }, 100);
 }
+
+// ===== 本地訪問次數統計 (僅限當前瀏覽器，完美融入背景) =====
+(function() {
+    const homePage = document.getElementById('home');
+    if (!homePage) return; // 只在首頁顯示
+
+    // 讀取並累加本地次數
+    let count = parseInt(localStorage.getItem('hasunosora_local_pv')) || 0;
+    count++;
+    localStorage.setItem('hasunosora_local_pv', count);
+
+    // 動態生成低調的頁腳文字 (淺灰色小字，與 #fafafa 背景融合)
+    const footer = document.createElement('p');
+    footer.style.cssText = 'text-align: center; color: #ccc; font-size: 12px; margin-top: 60px; padding-bottom: 20px; letter-spacing: 1px;';
+    footer.innerText = `本站累計訪問量（本地）：${count} 次`;
+    
+    homePage.appendChild(footer);
+})();
