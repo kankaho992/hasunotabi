@@ -828,12 +828,13 @@
     "holiday": "水曜日",
     "phone": "+81761572211",
     "cost": "- (設施收費)",
-    "description": "遊戲卡圖［いつでも、いつまでも］藤島慈 特訓前 取景地\n\n\"預備!蓮之空!105\" #42 取景地\n\"預備!蓮之空!105\" #43 取景地\n\n\"蓮之空x加賀温泉鄉 聯動項目\"地點\n加賀温泉鄉聯動周邊販賣點",
+    "description": "遊戲卡圖［いつでも、いつまでも］藤島慈 特訓前 取景地\n\n\"預備!蓮之空!105\" #42 取景地\n\"預備!蓮之空!105\" #43 取景地\n\n蓮NOTE短篇故事《Starsness》中登場\n\n\"蓮之空x加賀温泉鄉 聯動項目\"地點\n加賀温泉鄉聯動周邊販賣點",
     "googleMap": "https://maps.app.goo.gl/HrBY9kMJU2mFV4z27",
     "categories": [
       1,
       3,
-      13
+      13,
+      14
     ],
     "gallery": [
       "images/hasu_tedori_01.jpg",
@@ -3447,7 +3448,7 @@
   },
   {
     "id": 1787412262419,
-    "name": "加賀水果園",
+    "name": "加賀水果樂園",
     "lat": 36.326682,
     "lng": 136.305776,
     "address": "石川県加賀市豊町イ59-1",
@@ -3461,8 +3462,11 @@
       1,
       13
     ],
-    "gallery": [],
-    "thumb": null
+    "gallery": [
+      "images/hasu_kagafruitland_01.jpg",
+      "images/card_furitsland_01.png"
+    ],
+    "thumb": "images/hasu_kagafruitland_01.jpg"
   },
   {
     "id": 1787759541916,
@@ -5148,5 +5152,25 @@
       "images/linklike_story_103_01_02.jpg"
     ],
     "thumb": "images/hasu_fumuroya_01.jpg"
+  },
+  {
+    "id": 1790937045044,
+    "name": "石浦神社",
+    "lat": 36.561269,
+    "lng": 136.659805,
+    "address": "石川県金沢市本多町３丁目１−３０",
+    "hours": "-",
+    "holiday": "-",
+    "phone": "+81762313314",
+    "cost": "-",
+    "description": "出處已忘記，應該是mirapa radio\n三蓮華金澤遊路線其中一點\n有三蓮華的繪馬",
+    "googleMap": "https://maps.app.goo.gl/eodLGEs1QiXTDMcz6",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/hasu_ishiurajinja_01.jpg"
+    ],
+    "thumb": "images/hasu_ishiurajinja_01.jpg"
   }
 ]
