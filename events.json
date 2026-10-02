@@ -8770,5 +8770,22 @@
       "images/goods_sehasu_16.jpg"
     ],
     "thumb": "images/goods_sehasu_01.jpg"
+  },
+  {
+    "id": 1790940840711,
+    "name": "Youtube頻道：「せーので！はすのそら！Plus」 #12",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "time": "18:00",
+    "location": "",
+    "description": "✨🪷せーはす🪷✨\n\n本日の「せーので！はすのそら！Plus」 はお休みです\n次回は、2026/10/7(水)18:00更新予定です❕\n\nお楽しみに🥰",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/sehasu_logo_01.jpg"
+    ],
+    "thumb": "images/sehasu_logo_01.jpg"
   }
 ]
