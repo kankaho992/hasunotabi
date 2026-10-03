@@ -5172,5 +5172,67 @@
       "images/hasu_ishiurajinja_01.jpg"
     ],
     "thumb": "images/hasu_ishiurajinja_01.jpg"
+  },
+  {
+    "id": 1791034157673,
+    "name": "北陸大學藥學部食堂",
+    "lat": 36.521059,
+    "lng": 136.71979,
+    "address": "金沢市金川町ホ3番地",
+    "hours": "08:00-09:00 / 10:30-15:00",
+    "holiday": "土日祝 / 大學休日",
+    "phone": "+81762295101",
+    "cost": "飲食店",
+    "description": "蓮之空女學院食堂原型\n\n活動記錄 2023年度 第2話「ダメダメ⇒世界一！？」PART3\n花帆和沙耶香午飯和共同配信的地方",
+    "googleMap": "",
+    "categories": [
+      1,
+      2
+    ],
+    "gallery": [
+      "images/hasu_shokudo_01.jpg",
+      "images/linklike_story_103_02_03.png"
+    ],
+    "thumb": "images/hasu_shokudo_01.jpg"
+  },
+  {
+    "id": 1791041612318,
+    "name": "Tea Bloomy 銀座",
+    "lat": 35.669052,
+    "lng": 139.764907,
+    "address": "東京都中央区銀座６丁目１３−１６ B3F パセラリゾーツ銀座店（カスケード銀座店内)",
+    "hours": "11:00～22:00 （料理L.O. 21:00 飲料L.O. 21:30）",
+    "holiday": "-",
+    "phone": "0120992183",
+    "cost": "飲食店",
+    "description": "\"預備!蓮之空!Plus\" #5 取景地\nwww.youtube.com/watch?v=Ey0MzdAH0qQ\n葉山・三宅：季節のアフタヌーンティー、トロピカルフルーツティー、さつまいも紅茶、ミルク、豆乳、サーモンのお茶漬け",
+    "googleMap": "https://maps.app.goo.gl/CQnUC19zqiWyTqNq5",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/sehasu_plus_05_02.png"
+    ],
+    "thumb": "images/sehasu_plus_05_02.png"
+  },
+  {
+    "id": 1791044381546,
+    "name": "銀魚問屋Tobiccho 江之島弁財天仲見世通店",
+    "lat": 35.301927,
+    "lng": 139.480839,
+    "address": "神奈川県藤沢市江の島２丁目１−９",
+    "hours": "平日　11:00 ~ 21:00 (L.O 20:00) /  土日祝　11:00 ~ 21:00 (L.O 20:30)",
+    "holiday": "-",
+    "phone": "0466299090",
+    "cost": "飲食店",
+    "description": "\"預備!蓮之空!Plus\" #8 取景地\nhttps://youtu.be/cnbLz_BlzcQ\n来栖：釜揚げしらすねぎトロいくら丼\n進藤：釜揚げしらすねぎトロサーモン丼",
+    "googleMap": "https://maps.app.goo.gl/KqZGDLSr9k8RRFrb9",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/sehasu_plus_08_04.png"
+    ],
+    "thumb": "images/sehasu_plus_08_04.png"
   }
 ]
