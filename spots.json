@@ -389,7 +389,7 @@
     "holiday": "-",
     "phone": "+81762478999",
     "cost": "展示板免費 / 1040円 (入場費) + 410円 (租滑冰鞋)",
-    "description": "活動記錄 2023年度 第1話「花咲きたい！」PART3\n沙耶香提及自己練習花滑的地方\n活動記錄 2023年度 第5話「顔を上げて」PART1\n沙耶香回憶自己花滑遇上的問題\n活動記錄 2023年度 第6話「わがまま on the ICE!!」PART1\n沙耶香帶花帆去滑冰場練習\n\n遊戲卡圖［AWOKE］村野さやか 特訓前 取景地\n遊戲卡圖［AWOKE］村野さやか 特訓後 取景地\n遊戲卡圖［拝啓、未来の君へ］徒町小鈴 特訓前 取景地\n\n活動記錄2023年度第6話『わがまま on the ICE!!』PART4 取景地\n\n\"預備!蓮之空!104\" #37 取景地\n\n\"石川縣x蓮之空 聯動項目第二彈 加賀友禪聯動\"地點\n加賀友禪聯動 蓋章額外地點一\nDOLLCHESTRA (103期) 角色展示板",
+    "description": "活動記錄 2023年度 第1話「花咲きたい！」PART3\n沙耶香提及自己練習花滑的地方\n活動記錄 2023年度 第5話「顔を上げて」PART1\n沙耶香回憶自己花滑遇上的問題\n活動記錄 2023年度 第6話「わがまま on the ICE!!」PART1\n沙耶香帶花帆去滑冰場練習\n活動記錄 2023年度 第6話「わがまま on the ICE!!」PART4\n司向沙耶香坦白想法及提出引退\n\n遊戲卡圖［AWOKE］村野さやか 特訓前 取景地\n遊戲卡圖［AWOKE］村野さやか 特訓後 取景地\n遊戲卡圖［拝啓、未来の君へ］徒町小鈴 特訓前 取景地\n\n\"預備!蓮之空!104\" #37 取景地\n\n\"石川縣x蓮之空 聯動項目第二彈 加賀友禪聯動\"地點\n加賀友禪聯動 蓋章額外地點一\nDOLLCHESTRA (103期) 角色展示板",
     "googleMap": "https://maps.app.goo.gl/G9q4zBQoKWRQ8HVk6",
     "categories": [
       1,
@@ -1965,7 +1965,7 @@
     "holiday": "-",
     "phone": "+81762682222",
     "cost": "按設施收費",
-    "description": "遊戲卡圖［Sparkly Spot］村野さやか 特訓前 取景地\n\n活動記錄103期第6話『わがまま on the ICE!!』PART6 取景地\n活動記錄104期第8話『Not a marionette』PART7 取景地 (回憶)",
+    "description": "遊戲卡圖［Sparkly Spot］村野さやか 特訓前 取景地\n\n活動記錄 2023年度 第6話「わがまま on the ICE!!」PART6\n沙耶香邀請綴理演出\n活動記錄104期第8話『Not a marionette』PART7 取景地 (回憶)",
     "googleMap": "https://maps.app.goo.gl/avqwAGhEQH4SmjLu5",
     "categories": [
       1,
@@ -4887,7 +4887,7 @@
     "holiday": "-",
     "phone": "-",
     "cost": "-",
-    "description": "遊戲「Link！Like！ラブライブ！」OP映像 取景地\n\n遊戲卡圖［R's One Day］大沢瑠璃乃 特訓前 取景地",
+    "description": "遊戲「Link！Like！ラブライブ！」OP映像 取景地\n\n遊戲卡圖［R's One Day］大沢瑠璃乃 特訓前 取景地\n\n活動記錄 2023年度 第6話「わがまま on the ICE!!」幕間\n瑠璃乃去釣魚路上下車的車站",
     "googleMap": "https://maps.app.goo.gl/XWiW9KuKg25iYaRv7",
     "categories": [
       1,
@@ -5243,5 +5243,26 @@
       "images/sehasu_plus_08_04.png"
     ],
     "thumb": "images/sehasu_plus_08_04.png"
+  },
+  {
+    "id": 1791376302523,
+    "name": "Grand Cinema Sunshine 池袋",
+    "lat": 35.730973,
+    "lng": 139.716407,
+    "address": "東京都豊島区東池袋１丁目３０−３",
+    "hours": "-",
+    "holiday": "-",
+    "phone": "+81369152722",
+    "cost": "影院",
+    "description": "\"預備!蓮之空!Plus\"特別篇! 取景地\nhttps://www.youtube.com/watch?v=QrTTEFgCeaY",
+    "googleMap": "https://maps.app.goo.gl/DXitgnPx4nyu8GKT9",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/hasu_grandcinemasunshine_01.png",
+      "images/sehasu_plus_sp_01.jpg"
+    ],
+    "thumb": "images/hasu_grandcinemasunshine_01.png"
   }
 ]
