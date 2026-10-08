@@ -448,7 +448,7 @@
     "holiday": "-",
     "phone": "+81762488889",
     "cost": "200円（球数：20球） 6 game：1,000円",
-    "description": "遊戲卡圖［はじける☆オレンジソーダ］日野下花帆 特訓前 取景地\n遊戲卡圖［はじける☆ブルーソーダ］村野さやか 特訓前 取景地\n遊戲卡圖［拝啓、未来の君へ］村野さやか 特訓前 取景地\n\n活動記錄103期9話『ルリ・エスケープ』PART4 取景地\n\n\"預備!蓮之空!104\" #37 取景地",
+    "description": "活動記錄 2023年度 第9話「ルリ・エスケープ」PART4\n花帆和沙耶香追着逃走的瑠璃乃到擊球場打球\n\n遊戲卡圖［はじける☆オレンジソーダ］日野下花帆 特訓前 取景地\n遊戲卡圖［はじける☆ブルーソーダ］村野さやか 特訓前 取景地\n遊戲卡圖［拝啓、未来の君へ］村野さやか 特訓前 取景地\n\n\"預備!蓮之空!104\" #37 取景地",
     "googleMap": "https://maps.app.goo.gl/T5DgRNsZ1NQiSapc6",
     "categories": [
       1,
@@ -457,6 +457,10 @@
     ],
     "gallery": [
       "images/hasu_batting_01.webp",
+      "images/linklike_story_103_09_16.jpg",
+      "images/linklike_story_103_09_17.jpg",
+      "images/linklike_story_103_09_18.jpg",
+      "images/linklike_story_103_09_19.jpg",
       "images/card_batting_02.png",
       "images/card_batting_01.png",
       "images/card_batting_03.png",
@@ -2034,7 +2038,7 @@
     "holiday": "-",
     "phone": "+81761219803",
     "cost": "-",
-    "description": "遊戲卡圖［にゅーかまー！］大沢瑠璃乃 特訓前 取景地\n\n活動記錄103期第9話『ルリ・エスケープ』PART1 取景地",
+    "description": "遊戲卡圖［にゅーかまー！］大沢瑠璃乃 特訓前 取景地\n\n活動記錄 2023年度 第9話「ルリ・エスケープ」PART1\n瑠璃乃留學一年半後回國經小松機場到石川",
     "googleMap": "https://maps.app.goo.gl/WWUYEdioqgzQPCTg7",
     "categories": [
       1,
@@ -5192,7 +5196,7 @@
     "holiday": "土日祝 / 大學休日",
     "phone": "+81762295101",
     "cost": "飲食店",
-    "description": "蓮之空女學院食堂原型\n\n活動記錄 2023年度 第2話「ダメダメ⇒世界一！？」PART3\n花帆和沙耶香午飯和共同配信的地方",
+    "description": "蓮之空女學院食堂原型\n\n活動記錄 2023年度 第2話「ダメダメ⇒世界一！？」PART3\n花帆和沙耶香午飯和共同配信的地方\n活動記錄 2023年度 第8話「あの日のこころ、明日のこころ」PART1\n梢和綴理一起吃午飯\n活動記錄 2023年度 第9話「ルリ・エスケープ」PART2\n花帆帶瑠璃乃認識學校",
     "googleMap": "",
     "categories": [
       1,
@@ -5200,7 +5204,8 @@
     ],
     "gallery": [
       "images/hasu_shokudo_01.jpg",
-      "images/linklike_story_103_02_03.png"
+      "images/linklike_story_103_02_03.png",
+      "images/linklike_story_103_08_16.PNG"
     ],
     "thumb": "images/hasu_shokudo_01.jpg"
   },
