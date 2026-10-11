@@ -9273,7 +9273,8 @@
       1
     ],
     "gallery": [
-      "images/radio_mracla_final_14_01.jpg"
+      "images/radio_mracla_final_14_01.jpg",
+      "images/radio_mracla_final_14_02.jpg"
     ],
     "thumb": "images/radio_mracla_final_14_01.jpg"
   },
@@ -9363,5 +9364,22 @@
       "images/hasu_sauna_02.jpg"
     ],
     "thumb": "images/hasu_sauna_01.jpg"
+  },
+  {
+    "id": 1791690371552,
+    "name": "CD發售：MiraCra Park! 7th單曲 (廣播相關)",
+    "startDate": "2026-12-23",
+    "endDate": "2026-12-23",
+    "time": "",
+    "location": "",
+    "description": "みらくらぱーく！ 7thシングル\nタイトル未定\n\nアーティスト\nみらくらぱーく！\n[大沢瑠璃乃(CV.菅 叶和)、藤島 慈(CV.月音こな)、安養寺姫芽(CV.来栖りん)]\n発売日\n2026年12月23日（水）\n品番\nLACM-24726 /￥1,650（10%税込）/￥1,500 (税抜)\n仕様\n新規楽曲を含む2曲＋Off Vocalを収録予定\n\n■対象店舗：特典内容\nA-on STORE/A!SMART：2L判ブロマイド\nアニメイト：クリアカード（54×86ｍｍ）＆ロングフォト（50×150ｍｍ）\nゲーマーズ：A4クリアファイル\nAmazon.co.jp：メガジャケ\nあみあみ：L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター（76ｍｍ）\nタワーレコード（一部店舗を除く）：ましかくブロマイド\n楽天ブックス：ポストカード",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/hasunosoralogo.png"
+    ],
+    "thumb": "images/hasunosoralogo.png"
   }
 ]
