@@ -974,7 +974,7 @@
     "endDate": "2026-10-13",
     "time": "12:00",
     "location": "",
-    "description": "WEB通販情報\nバンダイナムコフィルムワークス公式通販サイトA-on STOREにて\n2026年10月13日（火）12時（正午）から10月26日（月）23時59分まで、通販受付を実施いたします。\nさらに、通販限定商品「BIGアクリルスタンド」（全11種）の予約受付を実施予定です。\n※POP UP SHOP会場にて「BIGアクリルスタンド」（全11種）のサンプル展示を行います。\n会場での販売はございません。\n\n【サイトURL】https://a-onstore.jp/shop/hasunosora-gothicpunk/\n【受注期間】2026年10月13日（火）12時（正午）～10月26日（月）23時59分\n※受注期間内であっても予定数に達した場合、販売を終了する場合がございます。\n【お届け予定日】2026年12月下旬より順次お届け\n\n●WEB通販の購入特典として、１会計につき、3,000円（税込）ご購入毎に、「ラウンドカード（全11種）」をランダムで1枚プレゼントします。\n※会場で実施予定のガラガラ抽選会のC賞と同じ内容となります。\n※商品お届け時に同梱します。",
+    "description": "WEB通販情報\nバンダイナムコフィルムワークス公式通販サイトA-on STOREにて\n2026年10月13日（火）12時（正午）から10月26日（月）23時59分まで、通販受付を実施いたします。\nさらに、通販限定商品「BIGアクリルスタンド」（全11種）の予約受付を実施予定です。\n※POP UP SHOP会場にて「BIGアクリルスタンド」（全11種）のサンプル展示を行います。\n会場での販売はございません。\n\n【サイトURL】https://a-onstore.jp/shop/hasunosora-gothicpunk/\n【受注期間】2026年10月13日（火）12時（正午）～10月26日（月）23時59分\n※受注期間内であっても予定数に達した場合、販売を終了する場合がございます。\n【お届け予定日】2026年12月下旬より順次お届け\n\n●WEB通販の購入特典として、１会計につき、3,000円（税込）ご購入毎に、「ラウンドカード（全11種）」をランダムで1枚プレゼントします。\n※会場で実施予定のガラガラ抽選会のC賞と同じ内容となります。\n※商品お届け時に同梱します。\n\n「パブミラー［Oracle Étude］」(全11種)予約受付開始❣\n \n美しく輝くガラス製のミラーに奥行きのあるデザインを施したハイクオリティなアイテムです👀✨\n \n渋谷モディ2F・東京アニメセンター「POP UP SHOP ～ゴシックパンクコレクション～」内でも実物展示中です。\nご予約は10月26日(月)23:59まで！\n \n▼詳細はこちら\nhttps://lovelive-anime.jp/news/01_6695.html",
     "googleMap": "",
     "categories": [
       4
@@ -982,7 +982,10 @@
     "gallery": [
       "images/goods_gothicpunk_01.jpg",
       "images/goods_gothicpunk_02.jpg",
-      "images/goods_gothicpunk_04.jpg"
+      "images/goods_gothicpunk_04.jpg",
+      "images/goods_gothicpunk_05.jpg",
+      "images/goods_gothicpunk_06.jpg",
+      "images/goods_gothicpunk_07.jpg"
     ],
     "thumb": "images/goods_gothicpunk_01.jpg"
   },
@@ -9083,8 +9086,8 @@
       3
     ],
     "gallery": [
-      "images/linklike_story_103_08_01.jpg",
       "images/linklike_story_103_08_11.jpg",
+      "images/linklike_story_103_08_01.jpg",
       "images/linklike_story_103_08_02.jpg",
       "images/linklike_story_103_08_03.png",
       "images/linklike_story_103_08_04.png",
@@ -9093,7 +9096,7 @@
       "images/linklike_story_103_08_14.jpg",
       "images/linklike_story_103_08_15.jpg"
     ],
-    "thumb": "images/linklike_story_103_08_01.jpg"
+    "thumb": "images/linklike_story_103_08_11.jpg"
   },
   {
     "id": 1791460280184,
@@ -9183,13 +9186,13 @@
       3
     ],
     "gallery": [
-      "images/linklike_story_103_08_01.jpg",
       "images/linklike_story_103_08_13.jpg",
+      "images/linklike_story_103_08_01.jpg",
       "images/linklike_story_103_08_02.jpg",
       "images/linklike_story_103_08_03.png",
       "images/linklike_story_103_08_10.png"
     ],
-    "thumb": "images/linklike_story_103_08_01.jpg"
+    "thumb": "images/linklike_story_103_08_13.jpg"
   },
   {
     "id": 1791469356740,
@@ -9204,8 +9207,8 @@
       3
     ],
     "gallery": [
-      "images/linklike_story_103_09_01.jpg",
       "images/linklike_story_103_09_10.jpg",
+      "images/linklike_story_103_09_01.jpg",
       "images/linklike_story_103_09_06.png",
       "images/linklike_story_103_09_02.jpg",
       "images/linklike_story_103_09_03.png",
@@ -9216,7 +9219,7 @@
       "images/linklike_story_103_09_13.jpg",
       "images/linklike_story_103_09_14.jpg"
     ],
-    "thumb": "images/linklike_story_103_09_01.jpg"
+    "thumb": "images/linklike_story_103_09_10.jpg"
   },
   {
     "id": 1791473496111,
@@ -9396,8 +9399,8 @@
       3
     ],
     "gallery": [
-      "images/linklike_story_103_10_01.jpg",
       "images/linklike_story_103_10_12.jpg",
+      "images/linklike_story_103_10_01.jpg",
       "images/linklike_story_103_10_02.jpg",
       "images/linklike_story_103_10_03.png",
       "images/linklike_story_103_10_04.png",
@@ -9416,7 +9419,7 @@
       "images/linklike_story_103_10_18.jpg",
       "images/card_tokumitsu_01.png"
     ],
-    "thumb": "images/linklike_story_103_10_01.jpg"
+    "thumb": "images/linklike_story_103_10_12.jpg"
   },
   {
     "id": 1791732742436,
@@ -9452,14 +9455,14 @@
     "endDate": "2023-09-21",
     "time": "10:00",
     "location": "",
-    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 8月 第11話「スクールアイドルクラブのために！（？）」PART1 - PART5 (為了校園偶像俱樂部！（？）)\n\n劇情概要：\n過去の傷を乗り越え、スクールアイドルクラブに復帰した慈。心機一転と意気込む彼女は、ひとり 「ある作戦」を胸に秘め部室に向かうが……。\n\n劇情關聯卡圖：\n第11話PART2 - ［ゆのくにガールズ！］日野下花帆 特訓前\n第11話PART3 - ［ゆのくにガールズ！］大沢瑠璃乃 特訓前\n第11話PART3 - ［ゆのくにガールズ！］村野さやか 特訓前\n第11話PART4 - ［ゆのくにガールズ！］藤島慈 特訓前\n第11話PART5 - ［ゆのくにガールズ！］日野下花帆 特訓後\n第11話PART5 - ［ゆのくにガールズ！］村野さやか 特訓後\n第11話PART5 - ［ゆのくにガールズ！］大沢瑠璃乃 特訓後\n第11話PART5 - ［ゆのくにガールズ！］藤島慈 特訓後\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.2」\n\n劇情時間線：\n推測為2023年9月16日附近的劇情，參考16日的WithMEETS",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 9月 第11話「スクールアイドルクラブのために！（？）」PART1 - PART5 (為了校園偶像俱樂部！（？）)\n\n劇情概要：\n過去の傷を乗り越え、スクールアイドルクラブに復帰した慈。心機一転と意気込む彼女は、ひとり 「ある作戦」を胸に秘め部室に向かうが……。\n\n劇情關聯卡圖：\n第11話PART2 - ［ゆのくにガールズ！］日野下花帆 特訓前\n第11話PART3 - ［ゆのくにガールズ！］大沢瑠璃乃 特訓前\n第11話PART3 - ［ゆのくにガールズ！］村野さやか 特訓前\n第11話PART4 - ［ゆのくにガールズ！］藤島慈 特訓前\n第11話PART5 - ［ゆのくにガールズ！］日野下花帆 特訓後\n第11話PART5 - ［ゆのくにガールズ！］村野さやか 特訓後\n第11話PART5 - ［ゆのくにガールズ！］大沢瑠璃乃 特訓後\n第11話PART5 - ［ゆのくにガールズ！］藤島慈 特訓後\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.2」\n\n劇情時間線：\n推測為2023年9月16日附近的劇情，參考16日的WithMEETS",
     "googleMap": "",
     "categories": [
       3
     ],
     "gallery": [
-      "images/linklike_story_103_11_01.jpg",
       "images/linklike_story_103_11_13.jpg",
+      "images/linklike_story_103_11_01.jpg",
       "images/linklike_story_103_11_02.jpg",
       "images/linklike_story_103_11_03.png",
       "images/linklike_story_103_11_04.png",
@@ -9476,7 +9479,7 @@
       "images/card_tensho_05.png",
       "images/card_tensho_08.png"
     ],
-    "thumb": "images/linklike_story_103_11_01.jpg"
+    "thumb": "images/linklike_story_103_11_13.jpg"
   },
   {
     "id": 1791824212726,
@@ -9485,7 +9488,7 @@
     "endDate": "2023-09-27",
     "time": "10:00",
     "location": "",
-    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 8月 第11話「スクールアイドルクラブのために！（？）」PART6 - PART9 (為了校園偶像俱樂部！（？）)\n\n劇情概要：\n過去の傷を乗り越え、スクールアイドルクラブに復帰した慈。心機一転と意気込む彼女は、ひとり 「ある作戦」を胸に秘め部室に向かうが……。\n\n劇情關聯卡圖：\n第11話PART6 - ［宇宙演舞☆うさぴょん］藤島慈 特訓前\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.4」\n\n劇情時間線：\n推測為2023年9月16日附近的劇情，參考16日的WithMEETS",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 9月 第11話「スクールアイドルクラブのために！（？）」PART6 - PART9 (為了校園偶像俱樂部！（？）)\n\n劇情概要：\n過去の傷を乗り越え、スクールアイドルクラブに復帰した慈。心機一転と意気込む彼女は、ひとり 「ある作戦」を胸に秘め部室に向かうが……。\n\n劇情關聯卡圖：\n第11話PART6 - ［宇宙演舞☆うさぴょん］藤島慈 特訓前\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.4」\n\n劇情時間線：\n推測為2023年9月16日附近的劇情，參考16日的WithMEETS",
     "googleMap": "",
     "categories": [
       3
@@ -9502,5 +9505,103 @@
       "images/card_tensho_01.png"
     ],
     "thumb": "images/linklike_story_103_11_01.jpg"
+  },
+  {
+    "id": 1791902558584,
+    "name": "活動記錄 2023年度第12話「期待はおもい！」幕間",
+    "startDate": "2023-10-10",
+    "endDate": "2023-10-10",
+    "time": "10:00",
+    "location": "",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 10月 第12話「期待はおもい！」幕間 (期待是沉重的！)\n\n劇情概要：\nラブライブ！地区予選通過にとって重要な意味を持つ竜胆祭でのライブ。だが、その準備の最中、部長の梢が発熱でダウンしてしまう！\n\n劇情關聯卡圖：\n第12話 幕間 - ［Au Bord du Lac］藤島慈 特訓前\n\n劇情關聯卡池：\n「103期 第4回個人戦」UR獎勵\n\n劇情時間線：\n推測為2023年10月上旬的劇情，從卡圖看來放學後進入黑夜能在天頂看到夏季大三角的時期只有9月末-10月初",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_story_103_12_15.jpg",
+      "images/linklike_story_103_12_16.jpg",
+      "images/linklike_story_103_12_02.jpg",
+      "images/linklike_story_103_12_03.png",
+      "images/linklike_story_103_12_04.png",
+      "images/linklike_story_103_12_20.jpg"
+    ],
+    "thumb": "images/linklike_story_103_12_15.jpg"
+  },
+  {
+    "id": 1791907315249,
+    "name": "活動記錄 2023年度第12話「期待はおもい！」PART1 - PART8",
+    "startDate": "2023-10-26",
+    "endDate": "2023-10-29",
+    "time": "15:00",
+    "location": "",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 10月 第12話「期待はおもい！」PART1 - PART8 (期待是沉重的！)\n\n劇情概要：\nラブライブ！地区予選通過にとって重要な意味を持つ竜胆祭でのライブ。だが、その準備の最中、部長の梢が発熱でダウンしてしまう！\n\n劇情關聯卡圖：\n第12話PART1 - ［Trick & Cute］乙宗梢 特訓前\n第12話PART2 - ［Trick & Cute］夕霧綴理 特訓前\n第12話PART4 - ［Trick & Cute］日野下花帆 特訓前\n第12話PART5 - ［Trick & Cute］藤島慈 特訓前\n第12話PART6 - ［Trick & Cute］大沢瑠璃乃 特訓前\n第12話PART7 - ［Trick & Cute］村野さやか 特訓前\n\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.5」\n「103期10月度 サークル対抗戦」UR/SR獎勵\n\n劇情時間線：\n2023年10月下旬的劇情，PART1提到下一周就是竜胆祭",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_story_103_12_01.jpg",
+      "images/linklike_story_103_12_17.jpg",
+      "images/linklike_story_103_12_02.jpg",
+      "images/linklike_story_103_12_03.png",
+      "images/linklike_story_103_12_05.png",
+      "images/linklike_story_103_12_06.png",
+      "images/linklike_story_103_12_07.png",
+      "images/linklike_story_103_12_08.png",
+      "images/linklike_story_103_12_09.png",
+      "images/linklike_story_103_12_10.png",
+      "images/linklike_story_103_12_11.png",
+      "images/linklike_story_103_12_12.png",
+      "images/linklike_story_103_12_21.jpg",
+      "images/linklike_story_103_12_22.jpg",
+      "images/card_higashichaya_03.png",
+      "images/linklike_story_103_12_23.jpg",
+      "images/linklike_story_103_12_24.jpg",
+      "images/linklike_story_103_12_25.jpg"
+    ],
+    "thumb": "images/linklike_story_103_12_01.jpg"
+  },
+  {
+    "id": 1791991875398,
+    "name": "活動記錄 2023年度第12話「期待はおもい！」ED1",
+    "startDate": "2023-10-30",
+    "endDate": "2023-10-30",
+    "time": "20:10",
+    "location": "",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 10月 第12話「期待はおもい！」ED1 (期待是沉重的！)\n\n劇情概要：\nラブライブ！地区予選通過にとって重要な意味を持つ竜胆祭でのライブ。だが、その準備の最中、部長の梢が発熱でダウンしてしまう！\n\n劇情關聯卡圖：\n\n劇情關聯卡池：\n\n劇情時間線：\n2023年10月30日的劇情，竜胆祭演出結束後的內容",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_story_103_12_18.jpg",
+      "images/linklike_story_103_12_01.jpg",
+      "images/linklike_story_103_12_02.jpg",
+      "images/linklike_story_103_12_03.png",
+      "images/linklike_story_103_12_13.png"
+    ],
+    "thumb": "images/linklike_story_103_12_18.jpg"
+  },
+  {
+    "id": 1791992533781,
+    "name": "活動記錄 2023年度第12話「期待はおもい！」ED2",
+    "startDate": "2023-10-30",
+    "endDate": "2023-10-30",
+    "time": "21:00",
+    "location": "",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 10月 第12話「期待はおもい！」ED2 (期待是沉重的！)\n\n劇情概要：\nラブライブ！地区予選通過にとって重要な意味を持つ竜胆祭でのライブ。だが、その準備の最中、部長の梢が発熱でダウンしてしまう！\n\n劇情關聯卡圖：\n\n劇情關聯卡池：\n\n劇情時間線：\n2023年10月30日的劇情，LoveLive!地區預賽演出結束後的內容",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_story_103_12_19.jpg",
+      "images/linklike_story_103_12_01.jpg",
+      "images/linklike_story_103_12_02.jpg",
+      "images/linklike_story_103_12_03.png",
+      "images/linklike_story_103_12_14.png"
+    ],
+    "thumb": "images/linklike_story_103_12_19.jpg"
   }
 ]
