@@ -9134,14 +9134,20 @@
     "endDate": "2026-10-29",
     "time": "",
     "location": "",
-    "description": "🪷コラボ情報🪷\n／\nラブライブ！蓮ノ空女学院スクールアイドルクラブ× #カラオケの鉄人\n*:ﾟ+｡.☆コラボ開催決定☆.+*✩⡱:ﾟ\n＼\n\n一足先に花帆のイラスト公開です♪✨\n他メンバーの姿や詳細は後日発表となりますのでお楽しみに🎮💞\n\n🗓️開催期間：2026年10月29日（木）～2026年12月13日（日）",
+    "description": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ× #カラオケの鉄人\n*:ﾟ+｡.☆🪷特設サイトオープン🪷☆.+*✩⡱:ﾟ\n\n昨日発表されたコラボの特設ページを公開しました！\nコンセプトルームの予約はこの後【18:00-】開始です🎶\n\n💞特設ページ🎮\nhttps://karatetsu.com/animegame/hasunosora.shtml\n\n🗓️開催期間：2026年10月29日（木）～2026年12月13日（日）\n\nメンバーの描き下ろしイラストが到着🎶\nコラボを記念したグッズやコンセプトルームがお楽しみいただけます🎮\nメンバーと一緒に過ごせるコンセプトルームの予約は【10/19(月)18:00】より開始⏰\n\nさらに！\nメンバーをイメージしたコラボドリンクや、蓮ノ空楽曲を歌って特典をゲットできるチャレンジも💭✨\n詳細は画像をCHECK👀🌟",
     "googleMap": "",
     "categories": [
       5
     ],
     "gallery": [
       "images/hasu_karatezcolab_02.jpg",
-      "images/hasu_karatezcolab_01.jpg"
+      "images/hasu_karatezcolab_01.jpg",
+      "images/hasu_karatezcolab_03.jpg",
+      "images/hasu_karatezcolab_04.jpg",
+      "images/hasu_karatezcolab_05.jpg",
+      "images/hasu_karatezcolab_06.jpg",
+      "images/hasu_karatezcolab_07.jpg",
+      "images/hasu_karatezcolab_08.jpg"
     ],
     "thumb": "images/hasu_karatezcolab_02.jpg"
   },
@@ -9159,7 +9165,13 @@
     ],
     "gallery": [
       "images/hasu_karatezcolab_02.jpg",
-      "images/hasu_karatezcolab_01.jpg"
+      "images/hasu_karatezcolab_01.jpg",
+      "images/hasu_karatezcolab_03.jpg",
+      "images/hasu_karatezcolab_04.jpg",
+      "images/hasu_karatezcolab_05.jpg",
+      "images/hasu_karatezcolab_06.jpg",
+      "images/hasu_karatezcolab_07.jpg",
+      "images/hasu_karatezcolab_08.jpg"
     ],
     "thumb": "images/hasu_karatezcolab_02.jpg"
   },
@@ -9846,5 +9858,29 @@
       "images/anime_hasu1stseason_06.jpg"
     ],
     "thumb": "images/anime_hasu1stseason_01.jpg"
+  },
+  {
+    "id": 1792395023585,
+    "name": "線下聯動：「蓮ノ空×カラオケの鉄人」卡拉OK予約開始",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "time": "18:00",
+    "location": "",
+    "description": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ× #カラオケの鉄人\n*:ﾟ+｡.☆🪷特設サイトオープン🪷☆.+*✩⡱:ﾟ\n\n昨日発表されたコラボの特設ページを公開しました！\nコンセプトルームの予約はこの後【18:00-】開始です🎶\n\n💞特設ページ🎮\nhttps://karatetsu.com/animegame/hasunosora.shtml\n\n🗓️開催期間：2026年10月29日（木）～2026年12月13日（日）\n\nメンバーの描き下ろしイラストが到着🎶\nコラボを記念したグッズやコンセプトルームがお楽しみいただけます🎮\nメンバーと一緒に過ごせるコンセプトルームの予約は【10/19(月)18:00】より開始⏰\n\nさらに！\nメンバーをイメージしたコラボドリンクや、蓮ノ空楽曲を歌って特典をゲットできるチャレンジも💭✨\n詳細は画像をCHECK👀🌟",
+    "googleMap": "",
+    "categories": [
+      5
+    ],
+    "gallery": [
+      "images/hasu_karatezcolab_02.jpg",
+      "images/hasu_karatezcolab_01.jpg",
+      "images/hasu_karatezcolab_03.jpg",
+      "images/hasu_karatezcolab_04.jpg",
+      "images/hasu_karatezcolab_05.jpg",
+      "images/hasu_karatezcolab_06.jpg",
+      "images/hasu_karatezcolab_07.jpg",
+      "images/hasu_karatezcolab_08.jpg"
+    ],
+    "thumb": "images/hasu_karatezcolab_02.jpg"
   }
 ]
