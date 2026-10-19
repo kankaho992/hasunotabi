@@ -5276,5 +5276,26 @@
       "images/sehasu_plus_sp_01.jpg"
     ],
     "thumb": "images/hasu_grandcinemasunshine_01.png"
+  },
+  {
+    "id": 1792385338060,
+    "name": "北國新聞赤羽大廳",
+    "lat": 36.565087,
+    "lng": 136.652772,
+    "address": "石川県金沢市南町２−１",
+    "hours": "-",
+    "holiday": "-",
+    "phone": "+81762603555",
+    "cost": "-",
+    "description": "アニメ・スタいしかわ2024聲優talk演出場地\n2024.08.18(日) 14:00～15:00\n花宮初奈（乙宗 梢役）佐々木琴子（夕霧 綴理役）月音こな（藤島 慈役）\nアニメ・スタいしかわ2025聲優talk演出場地\n2025.11.30(日) 14:00～15:00\n楡井希実（日野下花帆 役）野中ここな（村野さやか 役）菅 叶和（大沢瑠璃乃 役）\nアニメ・スタいしかわ2026聲優talk演出場地\n2026.11.29(日) 13:00～14:00\n星宮 じゅりあ　(錦上 マイカ役) 朝陽 花菜　(令沢 葵役) 湯浅  かなえ　(紫輪 みおん役)",
+    "googleMap": "https://maps.app.goo.gl/ujqtGRmnwGKLuGFy9",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/live_akabane_01.jpg",
+      "images/live_akabane_02.jpg"
+    ],
+    "thumb": "images/live_akabane_01.jpg"
   }
 ]

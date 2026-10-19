@@ -9140,9 +9140,10 @@
       5
     ],
     "gallery": [
+      "images/hasu_karatezcolab_02.jpg",
       "images/hasu_karatezcolab_01.jpg"
     ],
-    "thumb": "images/hasu_karatezcolab_01.jpg"
+    "thumb": "images/hasu_karatezcolab_02.jpg"
   },
   {
     "id": 1791460707110,
@@ -9157,9 +9158,10 @@
       5
     ],
     "gallery": [
+      "images/hasu_karatezcolab_02.jpg",
       "images/hasu_karatezcolab_01.jpg"
     ],
-    "thumb": "images/hasu_karatezcolab_01.jpg"
+    "thumb": "images/hasu_karatezcolab_02.jpg"
   },
   {
     "id": 1791463287011,
@@ -9663,7 +9665,8 @@
       1
     ],
     "gallery": [
-      "images/radio_mracla_final_15_01.jpg"
+      "images/radio_mracla_final_15_01.jpg",
+      "images/radio_mracla_final_15_02.jpg"
     ],
     "thumb": "images/radio_mracla_final_15_01.jpg"
   },
@@ -9700,5 +9703,148 @@
       "images/sehasu_logo_01.jpg"
     ],
     "thumb": "images/sehasu_logo_01.jpg"
+  },
+  {
+    "id": 1792315108840,
+    "name": "Youtube廣播「MiraCra補習室Radio THE FINAL」第16FINAL (嘉賓：星宮茱利亞)",
+    "startDate": "2026-10-25",
+    "endDate": "2026-10-25",
+    "time": "12:00",
+    "location": "",
+    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第15FINALのご視聴ありがとうございました！\n\nかんかん無敵のスーパー大勝利！\n次回第16FINALは世界のバランスをとるべく\nこなこな＆りんりんディレクション回です！\n\nさらに次々回第17FINALでは錦上マイカ役の\n#星宮じゅりあ さんゲスト登場決定！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/radio_mracla_final_logo.jpg"
+    ],
+    "thumb": "images/radio_mracla_final_logo.jpg"
+  },
+  {
+    "id": 1792384399205,
+    "name": "Event：蓮之空106期生聲優講談演出 in Anime Star石川",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "time": "13:00-14:00",
+    "location": "北國新聞赤羽大廳",
+    "description": "🪷イベント出演情報🪷\n\n蓮ノ空女学院スクールアイドルクラブ106期生キャストがアニメ・スタいしかわ2026のステージに出演決定！🎉\n\n日時：11月28日（土）13:00～14:00\n\nステージ観覧申し込みは明日【10月19日(月)17時】より\nアニメスタ・いしかわ公式Xにて募集開始！\n\n106期生キャスト初のイベントをお楽しみに💖",
+    "googleMap": "https://maps.app.goo.gl/ujqtGRmnwGKLuGFy9",
+    "categories": [
+      2
+    ],
+    "gallery": [
+      "images/live_animest2026_01.jpg"
+    ],
+    "thumb": "images/live_animest2026_01.jpg"
+  },
+  {
+    "id": 1792386653931,
+    "name": "CD發售：蓮之空 106期出道單曲",
+    "startDate": "2026-12-30",
+    "endDate": "2026-12-30",
+    "time": "",
+    "location": "",
+    "description": "蓮ノ空女学院スクールアイドルクラブ 106期デビューシングル\nタイトル未定\n\nアーティスト\nスリーズブーケ\n［錦上マイカ(CV.星宮じゅりあ)、百生吟子(CV.櫻井陽菜)］\n＆\nDOLLCHESTRA\n［徒町小鈴(CV.葉山風花)、セラス 柳田 リリエンフェルト(CV.三宅美羽)］\n＆\nみらくらぱーく！\n［令沢 葵(CV.朝陽花菜)、安養寺姫芽(CV.来栖りん)］\n＆\n誰ソ彼ノ燐光\n［桂城 泉(CV.進藤あまね)］\n発売日\n2026年12月30日（水）\n品番\nLACM-24838 /￥2,200（10%税込）/￥2,000 (税抜)\n仕様\n新規楽曲4曲＋Off Vocalを収録予定\n\n■対象店舗：特典内容\nA-on STORE/A!SMART：2L判ブロマイド\nアニメイト：クリアカード（54×86ｍｍ）＆ロングフォト（50×150ｍｍ）\nゲーマーズ：A4クリアファイル\nAmazon.co.jp：メガジャケ\nあみあみ：L判ブロマイド\nセブンネットショッピング：L判ブロマイド\nソフマップ・アニメガ：アクリルコースター（76ｍｍ）\nタワーレコード（一部店舗を除く）：ましかくブロマイド\n楽天ブックス：2L判ブロマイド",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/cd_106debut_01.jpg"
+    ],
+    "thumb": "images/cd_106debut_01.jpg"
+  },
+  {
+    "id": 1792386880914,
+    "name": "商品發售：ARMA BIANCA「POP UP SHOP in AMNIBUS STORE -white-」",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "time": "",
+    "location": "AMNIBUS STORE -white- (渋谷MODI 4樓)",
+    "description": "🪷POP UP SHOP 情報🪷\n\n『ラブライブ！蓮ノ空女学院スクールアイドルクラブ』 POP UP SHOP in AMNIBUS STORE -white-の開催が決定いたしました！✨\n\n📅開催期間\n2026年12月12日(土)～12月27日(日)\n📍渋谷モディ4階、AMNIBUS STORE -white-\n\n「スートテーマ衣装」の新規描き下ろしイラストを使用したグッズやその他新商品を多数展開！\n是非、遊びに来てください！ \n\n詳細はこちら✅\nhttps://lovelive-anime.jp/news/01_6711.html",
+    "googleMap": "https://maps.app.goo.gl/sUfqAVahvTF7BHb76",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_armabianca_01.jpg"
+    ],
+    "thumb": "images/goods_armabianca_01.jpg"
+  },
+  {
+    "id": 1792387390450,
+    "name": "商品發售：Gamers「金沢フォーラス20周年コラボ企画」",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "time": "",
+    "location": "Gamers",
+    "description": "『「ラブライブ ! 蓮ノ空女学院スクールアイドルクラブ」 オフィシャルタイアップショップ 金沢ゲーマーズ』が入っている金沢フォーラス様が、11月2日(月)に20周年を迎えます！\n\n金沢フォーラス20周年を記念したコラボ企画として、\n金沢ゲーマーズ看板娘 百生吟子 和装私服描き下ろしイラストとお買い物テーマのメンバーミニキャラ描き起こしイラスト商品の発売が決定！！\n加えて、ミニキャライラストを使用した金沢フォーラス20周年キャンペーンが10月23日(金)から開催予定です！！ぜひご来店ください♪\n\n【発売日】金沢ゲーマーズ：2026年10月23日（金）より先行発売予定\n　　　　　ゲーマーズ各店・オンラインショップ：2027年1月上旬発売予定\n\nオンラインショップ販売ページ\nhttps://x.gd/4y5ox",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_forus20th_01.jpg",
+      "images/goods_forus20th_02.jpg",
+      "images/goods_forus20th_03.jpg"
+    ],
+    "thumb": "images/goods_forus20th_01.jpg"
+  },
+  {
+    "id": 1792389995487,
+    "name": "線下活動：石川市集 (Ishikawa Marche)",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-28",
+    "time": "11:00-16:30",
+    "location": "石川県産業展示館（4号館）",
+    "description": "🪷いしかわマルシェ開催決定🪷\n11月28日・29日に石川県で開催されるライブ「Link Live Dream おいでよ！石川大観光Ⅱ」の開催に合わせて、いしかわマルシェの開催が決定しました！\n\n当日はキッチンカーに加えて、さまざまな企業がライブ会場横の産業展示館4号館前に軒を連ねます！\n\n詳細は後日発表します、お楽しみに✨\nhttps://lovelive-anime.jp/news/01_6720.html",
+    "googleMap": "https://maps.app.goo.gl/8sX2QY6bZJ7AHffw7",
+    "categories": [
+      5
+    ],
+    "gallery": [
+      "images/live_ishikawaII_25.jpg"
+    ],
+    "thumb": "images/live_ishikawaII_25.jpg"
+  },
+  {
+    "id": 1792390118774,
+    "name": "線下活動：石川市集 (Ishikawa Marche)",
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "time": "11:00-15:30",
+    "location": "石川県産業展示館（4号館）",
+    "description": "🪷いしかわマルシェ開催決定🪷\n11月28日・29日に石川県で開催されるライブ「Link Live Dream おいでよ！石川大観光Ⅱ」の開催に合わせて、いしかわマルシェの開催が決定しました！\n\n当日はキッチンカーに加えて、さまざまな企業がライブ会場横の産業展示館4号館前に軒を連ねます！\n\n詳細は後日発表します、お楽しみに✨\nhttps://lovelive-anime.jp/news/01_6720.html",
+    "googleMap": "https://maps.app.goo.gl/8sX2QY6bZJ7AHffw7",
+    "categories": [
+      5
+    ],
+    "gallery": [
+      "images/live_ishikawaII_25.jpg"
+    ],
+    "thumb": "images/live_ishikawaII_25.jpg"
+  },
+  {
+    "id": 1792393324850,
+    "name": "TV動畫「ラブライブ！蓮ノ空女学院スクールアイドルクラブ」第1話",
+    "startDate": "2027-01-10",
+    "endDate": "2027-01-10",
+    "time": "22:30",
+    "location": "",
+    "description": "🪷2027年1月放送スタート🪷\nTVアニメ『ラブライブ！蓮ノ空女学院スクールアイドルクラブ』\n\nTOKYO MX・BS11ほかにて、2027年1月放送スタート！\n\n106期4月～6月までの物語を、全7話の構成でお届けします！放送をお楽しみに！",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/anime_hasu1stseason_01.jpg",
+      "images/anime_hasu1stseason_02.jpg",
+      "images/anime_hasu1stseason_03.jpg",
+      "images/anime_hasu1stseason_04.jpg",
+      "images/anime_hasu1stseason_05.jpg",
+      "images/anime_hasu1stseason_06.jpg"
+    ],
+    "thumb": "images/anime_hasu1stseason_01.jpg"
   }
 ]
