@@ -10032,20 +10032,21 @@
   },
   {
     "id": 1792943642954,
-    "name": "Youtube廣播「MiraCra補習室Radio THE FINAL」第17FINAL (嘉賓 星宮茱利亞)",
+    "name": "Youtube廣播「MiraCra補習室Radio THE FINAL」第17FINAL「飛びます　飛べます」 (嘉賓 星宮茱利亞)",
     "startDate": "2026-11-01",
     "endDate": "2026-11-01",
     "time": "12:00",
     "location": "",
-    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第16FINALのご視聴ありがとうございました！\n\nこうして世界の均衡は保たれた――\n\n次回第17FINALでは錦上マイカ役の\n#星宮じゅりあ さんゲスト登場です！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
+    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第17FINAL「飛びます　飛べます」\n\n今回は106期生の錦上マイカ役、 #星宮じゅりあ さんが登場！いろいろおはなしをききます！\n\n▼プレミア公開ページ\nhttps://youtu.be/RPfplCnRBPk\n\n--\n\n🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第16FINALのご視聴ありがとうございました！\n\nこうして世界の均衡は保たれた――\n\n次回第17FINALでは錦上マイカ役の\n#星宮じゅりあ さんゲスト登場です！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
     "googleMap": "",
     "categories": [
       1
     ],
     "gallery": [
-      "images/radio_mracla_final_logo.jpg"
+      "images/radio_mracla_final_17_01.jpg",
+      "images/radio_mracla_final_17_02.jpg"
     ],
-    "thumb": "images/radio_mracla_final_logo.jpg"
+    "thumb": "images/radio_mracla_final_17_01.jpg"
   },
   {
     "id": 1792947273221,
@@ -10219,5 +10220,77 @@
       "images/hasunosoralogo.png"
     ],
     "thumb": "images/hasunosoralogo.png"
+  },
+  {
+    "id": 1793461099884,
+    "name": "商品發售：「三井Shoping Park Lalaport x 蓮之空」聯動",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-13",
+    "time": "",
+    "location": "",
+    "description": "三井ショッピングパーク ららぽーと名古屋みなとアクルス・三井アウトレットパーク 北陸小矢部 × ラブライブ！蓮ノ空女学院スクールアイドルクラブ　キャラバンツアー開催決定！\n\n規描き下ろしグッズの販売をはじめ、デジタルスタンプラリーやノベルティプレゼントキャンペーンなど企画が盛りだくさん！\nぜひ遊びにきてくださいね🎵\n\n＜開催期間＞\n三井ショッピングパーク ららぽーと名古屋みなとアクルス：2026年11月13日(金) 〜 11月23日(月)\n三井アウトレットパーク 北陸小矢部：2026年11月13日(金) 〜 11月15日(日)\n\n＜開催場所＞\n三井ショッピングパーク ららぽーと名古屋みなとアクルス\nhttps://mitsui-shopping-park.com/lalaport/minatoaquls/\n\n三井アウトレットパーク 北陸小矢部\nhttps://mitsui-shopping-park.com/mop/oyabe/\n\n＜特設ページはこちら＞\nhttps://lovelive.series-caravan.jp/",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_15feslalaport_01.jpg",
+      "images/goods_15feslalaport_02.jpg",
+      "images/goods_15feslalaport_03.jpg"
+    ],
+    "thumb": "images/goods_15feslalaport_01.jpg"
+  },
+  {
+    "id": 1793461336067,
+    "name": "商品發售結束：「三井Shoping Park Lalaport x 蓮之空」聯動",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "time": "",
+    "location": "",
+    "description": "三井ショッピングパーク ららぽーと名古屋みなとアクルス・三井アウトレットパーク 北陸小矢部 × ラブライブ！蓮ノ空女学院スクールアイドルクラブ　キャラバンツアー開催決定！\n\n規描き下ろしグッズの販売をはじめ、デジタルスタンプラリーやノベルティプレゼントキャンペーンなど企画が盛りだくさん！\nぜひ遊びにきてくださいね🎵\n\n＜開催期間＞\n三井ショッピングパーク ららぽーと名古屋みなとアクルス：2026年11月13日(金) 〜 11月23日(月)\n三井アウトレットパーク 北陸小矢部：2026年11月13日(金) 〜 11月15日(日)\n\n＜開催場所＞\n三井ショッピングパーク ららぽーと名古屋みなとアクルス\nhttps://mitsui-shopping-park.com/lalaport/minatoaquls/\n\n三井アウトレットパーク 北陸小矢部\nhttps://mitsui-shopping-park.com/mop/oyabe/\n\n＜特設ページはこちら＞\nhttps://lovelive.series-caravan.jp/",
+    "googleMap": "",
+    "categories": [
+      4
+    ],
+    "gallery": [
+      "images/goods_15feslalaport_01.jpg",
+      "images/goods_15feslalaport_02.jpg",
+      "images/goods_15feslalaport_03.jpg"
+    ],
+    "thumb": "images/goods_15feslalaport_01.jpg"
+  },
+  {
+    "id": 1793504485088,
+    "name": "Youtube廣播「MiraCra補習室Radio THE FINAL」第18FINAL (嘉賓 星宮茱利亞)",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "time": "12:00",
+    "location": "",
+    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第17FINALのご視聴ありがとうございました！\n\n次回は引き続き錦上マイカ役の #星宮じゅりあ さんが、\n次々回は令沢 葵役の #朝陽花菜 さんがゲスト出演！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/radio_mracla_final_logo.jpg"
+    ],
+    "thumb": "images/radio_mracla_final_logo.jpg"
+  },
+  {
+    "id": 1793504925544,
+    "name": "Youtube廣播「MiraCra補習室Radio THE FINAL」第19FINAL (嘉賓 朝陽花菜)",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-15",
+    "time": "12:00",
+    "location": "",
+    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第17FINALのご視聴ありがとうございました！\n\n次回は引き続き錦上マイカ役の #星宮じゅりあ さんが、\n次々回は令沢 葵役の #朝陽花菜 さんがゲスト出演！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/radio_mracla_final_logo.jpg"
+    ],
+    "thumb": "images/radio_mracla_final_logo.jpg"
   }
 ]
