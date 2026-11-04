@@ -10292,5 +10292,264 @@
       "images/radio_mracla_final_logo.jpg"
     ],
     "thumb": "images/radio_mracla_final_logo.jpg"
+  },
+  {
+    "id": 1793721115347,
+    "name": "活動記錄 2023年度第13話「追いついたよ」PART1 - PART4",
+    "startDate": "2023-11-20",
+    "endDate": "2023-11-20",
+    "time": "10:00",
+    "location": "",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 11月 第13話「追いついたよ」PART1 - PART4 (終於追上了)\n\n劇情概要：\nラブライブ！地区予選は、3ユニットとも無事突破。著しい成長を見せるさやかに触発され、綴理はオープンキャンパス実行委員に立候補する。\n\n劇情關聯卡圖：\n第13話PART2 - ［ツバサ・ラ・リベルテ］藤島慈 特訓前\n第13話PART4 - ［ツバサ・ラ・リベルテ］乙宗梢 特訓前\n第13話PART4 - ［ツバサ・ラ・リベルテ］大沢瑠璃乃 特訓前\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.8」\n「103期11月度 サークル対抗戦」UR/SR獎勵\n\n劇情時間線：\n推測為2023年11月上旬至中旬的劇情",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_story_103_13_01.jpg",
+      "images/linklike_story_103_13_12.jpg",
+      "images/linklike_story_103_13_02.jpg",
+      "images/linklike_story_103_13_03.png",
+      "images/linklike_story_103_13_04.png",
+      "images/linklike_story_103_13_05.png",
+      "images/linklike_story_103_13_06.png",
+      "images/linklike_story_103_13_07.png",
+      "images/linklike_story_103_13_15.jpg",
+      "images/linklike_story_103_13_16.jpg",
+      "images/linklike_story_103_13_17.jpg"
+    ],
+    "thumb": "images/linklike_story_103_13_01.jpg"
+  },
+  {
+    "id": 1793723547929,
+    "name": "活動記錄 2023年度第13話「追いついたよ」PART5 - PART8",
+    "startDate": "2023-11-27",
+    "endDate": "2023-11-27",
+    "time": "10:00",
+    "location": "",
+    "description": "在遊戲上「Link！Like！ラブライブ！」更新的活動記錄\n\n活動記錄 2023年度(103期) 11月 第13話「追いついたよ」PART5 - PART8 (終於追上了)\n\n劇情概要：\nラブライブ！地区予選は、3ユニットとも無事突破。著しい成長を見せるさやかに触発され、綴理はオープンキャンパス実行委員に立候補する。\n\n劇情關聯卡圖：\n第13話PART6 - ［ツバサ・ラ・リベルテ］夕霧綴理 特訓前\n第13話PART7 - ［ツバサ・ラ・リベルテ］日野下花帆 特訓前\n第13話PART8 - ［ツバサ・ラ・リベルテ］村野さやか 特訓前\n\n劇情關聯卡池：\n「2023 AUTUMN LIMITED COLLECTION vol.8」\n\n劇情時間線：\n推測為2023年11月下旬的劇情",
+    "googleMap": "",
+    "categories": [
+      3
+    ],
+    "gallery": [
+      "images/linklike_story_103_13_14.jpg",
+      "images/linklike_story_103_13_01.jpg",
+      "images/linklike_story_103_13_02.jpg",
+      "images/linklike_story_103_13_13.jpg",
+      "images/linklike_story_103_13_03.png",
+      "images/linklike_story_103_13_08.png",
+      "images/linklike_story_103_13_09.png",
+      "images/linklike_story_103_13_10.png",
+      "images/linklike_story_103_13_11.png",
+      "images/linklike_story_103_13_18.jpg",
+      "images/linklike_story_103_13_19.jpg",
+      "images/linklike_story_103_13_20.jpg"
+    ],
+    "thumb": "images/linklike_story_103_13_14.jpg"
+  },
+  {
+    "id": 1793798617396,
+    "name": "夕霧綴理 生日",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_tsuzuribirth_01.jpg"
+    ],
+    "thumb": "images/hasu_tsuzuribirth_01.jpg"
+  },
+  {
+    "id": 1793798973244,
+    "name": "百生吟子 生日",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-20",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_ginkobirth_01.jpg"
+    ],
+    "thumb": "images/hasu_ginkobirth_01.jpg"
+  },
+  {
+    "id": 1793799062980,
+    "name": "桂城泉 生日",
+    "startDate": "2026-12-01",
+    "endDate": "2026-12-01",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_izumibirth_01.jpg"
+    ],
+    "thumb": "images/hasu_izumibirth_01.jpg"
+  },
+  {
+    "id": 1793799116396,
+    "name": "藤島慈 生日",
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-20",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_megumibirth_01.jpg"
+    ],
+    "thumb": "images/hasu_megumibirth_01.jpg"
+  },
+  {
+    "id": 1793799161644,
+    "name": "村野沙也加 生日",
+    "startDate": "2027-01-13",
+    "endDate": "2027-01-13",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_sayakabirth_01.jpg"
+    ],
+    "thumb": "images/hasu_sayakabirth_01.jpg"
+  },
+  {
+    "id": 1793799211195,
+    "name": "徒町小鈴 生日",
+    "startDate": "2027-02-28",
+    "endDate": "2027-02-28",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_kosuzubirth_01.jpg"
+    ],
+    "thumb": "images/hasu_kosuzubirth_01.jpg"
+  },
+  {
+    "id": 1793799640187,
+    "name": "錦上莓果 生日",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-19",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_maikabirth_01.png"
+    ],
+    "thumb": "images/hasu_maikabirth_01.png"
+  },
+  {
+    "id": 1793799688347,
+    "name": "紫輪美音 生日",
+    "startDate": "2027-01-27",
+    "endDate": "2027-01-27",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_mionbirth_01.png"
+    ],
+    "thumb": "images/hasu_mionbirth_01.png"
+  },
+  {
+    "id": 1793799719323,
+    "name": "令沢葵 生日",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_aoibirth_01.png"
+    ],
+    "thumb": "images/hasu_aoibirth_01.png"
+  },
+  {
+    "id": 1793799805531,
+    "name": "乙宗梢 生日",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-15",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_kozuebirth_01.jpg"
+    ],
+    "thumb": "images/hasu_kozuebirth_01.jpg"
+  },
+  {
+    "id": 1793799847571,
+    "name": "日野下花帆 生日",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_kahobirth_01.jpg"
+    ],
+    "thumb": "images/hasu_kahobirth_01.jpg"
+  },
+  {
+    "id": 1793799895523,
+    "name": "大沢瑠璃乃 生日",
+    "startDate": "2026-08-31",
+    "endDate": "2026-08-31",
+    "time": "00:00",
+    "location": "",
+    "description": "",
+    "googleMap": "",
+    "categories": [
+      6
+    ],
+    "gallery": [
+      "images/hasu_rurinobirth_01.jpg"
+    ],
+    "thumb": "images/hasu_rurinobirth_01.jpg"
   }
 ]
