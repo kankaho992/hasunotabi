@@ -10050,18 +10050,19 @@
   },
   {
     "id": 1792947273221,
-    "name": "With蓮之空SOUND ONLY直播 2026-11-08「 出演：百生吟子」",
+    "name": "With蓮之空SOUND ONLY直播 2026-11-08「百生吟子的金澤介紹Level1」",
     "startDate": "2026-11-08",
     "endDate": "2026-11-08",
     "time": "20:30",
     "location": "",
-    "description": "🪷おためし蓮ノ空🪷\n#蓮ノ空 #lovelive\n【SOUND ONLY #With蓮ノ空】\n第5回 11月8日（日）20:30～\n「百生吟子の金沢紹介レベル1」\nプレミア公開ページオープン！\n\n▼プレミア公開はこちらから！\nhttps://youtu.be/2Dna5yVkayk\n\n配信終了後には、メンバーシップ限定で\n「ちょっと蔵出し #With蓮ノ空」も配信予定！\nこちらもあわせてチェックお願いします！\n\n※本コンテンツは音声のみとなります。",
+    "description": "🪷おためし蓮ノ空🪷\n#蓮ノ空 #lovelive\n【SOUND ONLY #With蓮ノ空】\n第5回 11月8日（日）20:30～\n「百生吟子の金沢紹介レベル1」\nプレミア公開ページオープン！\n\n▼プレミア公開はこちらから！\nhttps://youtu.be/2Dna5yVkayk\n\n配信終了後には、メンバーシップ限定で\n「ちょっと蔵出し #With蓮ノ空」も配信予定！\nこちらもあわせてチェックお願いします！\n\n※本コンテンツは音声のみとなります。\n\nメンバーシップ限定で、\nちょっと蔵出し #With蓮ノ空 も配信！\n\n▼メンシ限定動画はこちら！\nhttps://youtu.be/2QQC8S6fOzg",
     "googleMap": "",
     "categories": [
       1
     ],
     "gallery": [
-      "images/linklike_withmeets_261108_01.jpg"
+      "images/linklike_withmeets_261108_01.jpg",
+      "images/linklike_withmeets_261108_02.jpg"
     ],
     "thumb": "images/linklike_withmeets_261108_01.jpg"
   },
@@ -10255,7 +10256,8 @@
       1
     ],
     "gallery": [
-      "images/radio_mracla_final_18_01.jpg"
+      "images/radio_mracla_final_18_01.jpg",
+      "images/radio_mracla_final_18_02.jpg"
     ],
     "thumb": "images/radio_mracla_final_18_01.jpg"
   },
@@ -10266,7 +10268,7 @@
     "endDate": "2026-11-15",
     "time": "12:00",
     "location": "",
-    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第17FINALのご視聴ありがとうございました！\n\n次回は引き続き錦上マイカ役の #星宮じゅりあ さんが、\n次々回は令沢 葵役の #朝陽花菜 さんがゲスト出演！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
+    "description": "🪷Webラジオ情報🪷\n#蓮ノ空 #lovelive #みらくら補習FINAL\nかんかん＆りんりん＆こなこなの\nみらくら補習室ラジオ THE FINAL\n第17FINALのご視聴ありがとうございました！\nじゅりじゅりも出演ありがとう！\n\n次回からは令沢 葵役の #朝陽花菜 さんがゲスト出演！\n\n▼お便りも募集中！\nhttps://forms.gle/DfVFU3sUDa9gY6nA6",
     "googleMap": "",
     "categories": [
       1
@@ -10658,5 +10660,22 @@
       "images/goods_8ramen2_01.jpg"
     ],
     "thumb": "images/goods_8ramen2_01.jpg"
+  },
+  {
+    "id": 1794151428979,
+    "name": "Youtube頻道Voice story 蓮ノ空女学院スクールアイドルクラブBehind the Scenes ＜日野下花帆編＞",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "time": "17:00",
+    "location": "",
+    "description": "🪷新企画公開！🪷\n\n／\n  蓮ノ空女学院スクールアイドルクラブ\n  Behind the Scenes ＜日野下花帆編＞\n＼\n\n蓮ノ空105期メンバーの日常の一コマを\n描き下ろしイラストと共にお届けするボイスストーリーを\n本日より公開！\n\nhttps://youtu.be/fB1aauO41yA\n\nメンバーの個性あふれる日常をご覧ください✨\n\n次回更新をお楽しみに❣",
+    "googleMap": "",
+    "categories": [
+      1
+    ],
+    "gallery": [
+      "images/video_voicestory_kaho_01.jpg"
+    ],
+    "thumb": "images/video_voicestory_kaho_01.jpg"
   }
 ]
