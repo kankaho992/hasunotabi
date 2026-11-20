@@ -9885,7 +9885,8 @@
       "images/hasu_karatezcolab_05.jpg",
       "images/hasu_karatezcolab_06.jpg",
       "images/hasu_karatezcolab_07.jpg",
-      "images/hasu_karatezcolab_08.jpg"
+      "images/hasu_karatezcolab_08.jpg",
+      "images/hasu_karatezcolab_09.jpg"
     ],
     "thumb": "images/hasu_karatezcolab_02.jpg"
   },
@@ -9902,9 +9903,10 @@
       4
     ],
     "gallery": [
+      "images/goods_105illustbook_01.jpg",
       "images/goods_105illustbook_02.jpg"
     ],
-    "thumb": "images/goods_105illustbook_02.jpg"
+    "thumb": "images/goods_105illustbook_01.jpg"
   },
   {
     "id": 1792509831853,
